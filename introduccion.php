@@ -13,7 +13,7 @@
 
 </head>
 <body>
-    <?php include('template.php'); ?>
+    <?php include('layout/template.php'); ?>
   
 <div class="main">
     <div class = "text txt-justify">
@@ -69,7 +69,7 @@
     <p>El Tutor, deberá estar consciente de que su tarea principal es estimular a aquellos estudiantes que pueden proyectarse como profesionales, en las ramas de la ingeniería en que se formen con altos niveles de competencia, por lo que el cuidado y atención que se le brinde al alumno someterá a prueba el prestigio académico del propio equipo docente y de la institución. </p>
     </div>
     <a href="index.php" class ="atras"><</a>
-    <a href="operacion.html" class ="siguiente">></a>
+    <a href="operacion.php" class ="siguiente">></a>
     </div>
 </div>
 

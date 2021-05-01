@@ -13,7 +13,7 @@
 
 </head>
 <body>
-<?php include('template.php'); ?>
+<?php include('layout/template.php'); ?>
   
 <div class="main" >
     <div class="text txt-center">
@@ -89,7 +89,7 @@
 </div>
 </div>
 
-    <a href="introduccion.html" class ="siguiente">></a>
+    <a href="introduccion.php" class ="siguiente">></a>
    
 
 </body>
