@@ -38,7 +38,7 @@
             </ol>
 
             <p>
-            NOTA: Para el desarrollo de las actividades de la semana 15 UN DÍA POR MI TEC, el tutor deberá definir
+            <b><u>NOTA:</u></b> Para el desarrollo de las actividades de la semana 15 UN DÍA POR MI TEC, el tutor deberá definir
             con su Jefatura de Carrera las necesidades, insumos, implementos de trabajo y seguridad necesarios para llevarlas a cabo.
             
             </p>

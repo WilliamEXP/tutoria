@@ -17,7 +17,7 @@
   
 <div class="main">
     <div class = "text txt-justify">
-    <h2>Tutría Individual</h2>
+    <h2>Tutoría Individual</h2>
     
         <p>Se realiza cuando el Tutor detecta estudiantes en situaciones especiales, de riesgo escolar o cuando el mismo alumno así lo solicite. El objetivo principal es el de orientar y apoyar al estudiante en los problemas escolares o personales que surjan durante el proceso formativo como dificultades en el aprendizaje, relaciones maestro-alumno, relaciones entre alumnos y, en caso de requerirlo, canalizarlo a instancias especializadas para su atención.</p>
 

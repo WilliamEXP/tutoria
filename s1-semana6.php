@@ -26,14 +26,14 @@
 
             <h3>Pasos a seguir:</h3>
 
-            <ul>
-                <li>1.	El tutor les proporciona el formato de 
+            <ol>
+                <li>El tutor les proporciona el formato de 
                 Expediente a sus tutorados disponible en
                 material. 
                 </li>
-                <li>2.	Los tutorados deberán llenar el formato 
+                <li>Los tutorados deberán llenar el formato 
                 y entregárselo a su tutor para archivar.</li>
-            </ul>
+            </ol>
         </div>
         
         <a href="s1-semana5.php" class="atras"><</a>

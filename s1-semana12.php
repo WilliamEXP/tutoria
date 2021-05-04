@@ -29,7 +29,7 @@
             <h3>Pasos a seguir:</h3>
 
             <ol type = "1">
-                <li>1.	El Tutor recaba las evidencias de los tutorados 
+                <li>El Tutor recaba las evidencias de los tutorados 
                 relacionadas con el desarrollo de las 
                 habilidades establecidas en el formato de 
                 evaluación al desempeño de la actividad 
