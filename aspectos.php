@@ -16,7 +16,7 @@
     <?php include('layout/template.php'); ?>
   
 <div class="main">
-    <div class = "text tct-justify">
+    <div class = "text txt-justify">
    
     <h2>Aspectos fundamentales de operación</h2>
     
