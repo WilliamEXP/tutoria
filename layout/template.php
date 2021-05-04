@@ -32,6 +32,12 @@
     
         <li><a href="guia.html">Guia Para el Tutor</a></li>
         <li class="sub"><a href="sesion1.html">Semestre 1</a></li>
+        <li class="sub"><a href="s8-semana14.php">Semestre 7 semana 14</a></li>
+        <li class="sub"><a href="s8-semana15.php">Semestre 7 semana 15</a></li>
+        <li class="sub"><a href="s8-semana16.php">Semestre 7 semana 16</a></li>
+        <li class="sub"><a href="s8.php">Semestre 8</a></li>
+        <li class="sub"><a href="s8-semana17.php">Semestre 8 semana 17</a></li>
+        <li class="sub"><a href="s8-semana18.php">Semestre 8 semana 18</a></li>
        
        </div>
        

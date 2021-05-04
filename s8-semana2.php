@@ -24,10 +24,10 @@
       la calificación del tutorado en el programa.</p>
 
     <h3>Pasos a seguir</h3>
-    <ul>
+    <ol>
+      <li>respondiente.El Tutor recaba las evidencias de los tutorados relacionadas con el desarrollo de las habilidades establecidas en el formato de evaluación al desempeño de la actividad complementaria y llena el formato cor</li>
       <li></li>
-      <li></li>
-    </ul>
+    </ol>
         
         <div class="img">
         <p><img src="img/gra1.png" width ="auto" height = "350px"></p>
