@@ -18,12 +18,8 @@
 <div class="main">
     <div class = "text txt-justify">
 
-<<<<<<< HEAD
-    <h2>Definicion de conceptos</h2>
-
-=======
     <h2>Definición de conceptos</h2>
->>>>>>> 89a2fb2f7d95c740beca24bb746be57158b02fab
+
     <p>El adecuado empleo de las diversas acepciones empleadas en términos de la Tutoría, permite tener un lenguaje claro y asegura la sinergia de las acciones que permiten el logro de los objetivos del programa. Estos conceptos han sido establecidos por el Comité Académico de la Institución de forma colegiada y se presentan a continuación para la adecuada comprensión del documento.</p>
 
     <h3>Comité de Tutorías.</h3> 
