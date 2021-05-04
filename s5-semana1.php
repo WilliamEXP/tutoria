@@ -18,7 +18,6 @@
     <div class="main">
         <div class="text txt-justify">
             <h2>Semana 1 | PRESENTACIÓN / FOTO GRUPAL</h2>
-
             <h3>Descripción</h3>
             <p>Introducción del Programa Institucional de Tutoría (PIT) del semestre y organización de la foto grupal con el Tutor.</p>
 

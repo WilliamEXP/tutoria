@@ -14,7 +14,7 @@
         <div class="menu active">
         
         <h3 class = "txt-center">Índice | Semestre 4</h3>
-        
+        <li><a href="index.php">Inicio</a></li>
         <li><a href="s4-semana1.php" id="s4-semana1">Presentación / Foto grupal</a></li>
         <li><a href="s4-semana2.php" id="s4-semana2">comprención lectora</a></li>
         <li><a href="s4-semana3.php" id="s4-semana3">Elaboración de resúmenes</a></li>

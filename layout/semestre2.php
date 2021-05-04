@@ -14,7 +14,7 @@
         <div class="menu active">
         
         <h3 class = "txt-center">Índice | Semestre 2</h3>
-        
+        <li><a href="index.php">Inicio</a></li>
         <li><a href="s2-semana1.php" id="s2-semana1">Presentación / Foto grupal</a></li>
         <li><a href="s2-semana2.php" id="s2-semana2">Consecuencias y responsabilidades de la sexualidad activa</a></li>
         <li><a href="s2-semana3.php" id="s2-semana3">Inducción al programa de lengua extranjera</a></li>

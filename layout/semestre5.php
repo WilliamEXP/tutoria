@@ -14,13 +14,13 @@
         <div class="menu active">
         
         <h3 class = "txt-center">Índice | Semestre 5</h3>
-        
+        <li><a href="index.php">Inicio</a></li>
         <li><a href="s5-semana1.php" id="s5-semana1">Presentación / Foto grupal</a></li>
         <li><a href="s5-semana2.php" id="s5-semana2">Autodidactismo</a></li>
         <li><a href="s5-semana3.php" id="s5-semana3">Administración del tiempo</a></li>
         <li><a href="s5-semana4.php" id="s5-semana4">Actividades complementarias </a></li>
         <li><a href="s5-semana5.php" id="s5-semana5">Avance Escolar</a></li>
-        <li><a href="s5-semana6.php" id="s5-semana6">EAnálisis de la retícula de la especialidad</a></li>
+        <li><a href="s5-semana6.php" id="s5-semana6">Análisis de la retícula de la especialidad</a></li>
         <li><a href="s5-semana7.php" id="s5-semana7">Actitud en las conferencias</a></li>
         <li><a href="s5-semana8.php" id="s5-semana8">Solicitud de ayuda psicológica </a></li>
         <li><a href="s5-semana9.php" id="s5-semana9">Avance Escolar</a></li>
