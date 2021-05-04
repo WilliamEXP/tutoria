@@ -29,8 +29,6 @@
 	  <li>Los estudiantes llenarán dicha solicitud y la presentarán en su entrevista de trabajo en la semana 7 y 8.</li>
 	</ol>
 
-	</div>
-
 	<a href="index.php" class ="atras"><</a>
 	<a href="operacion.php" class ="siguiente">></a>
       </div>

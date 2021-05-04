@@ -29,8 +29,6 @@
 	  <li>Finalizar con un espacio para comentarios con los estudiantes.</li>
 	</ol>
 
-	</div>
-
 	<a href="index.php" class ="atras"><</a>
 	<a href="operacion.php" class ="siguiente">></a>
       </div>

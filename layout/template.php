@@ -35,7 +35,6 @@
         <li class="sub"><a href="s8-semana14.php">Semestre 7 semana 14</a></li>
         <li class="sub"><a href="s8-semana15.php">Semestre 7 semana 15</a></li>
         <li class="sub"><a href="s8-semana16.php">Semestre 7 semana 16</a></li>
-        <li class="sub"><a href="s8.php">Semestre 8</a></li>
         <li class="sub"><a href="s8-semana1.php">Semestre 8 semana 1</a></li>
         <li class="sub"><a href="s8-semana2.php">Semestre 8 semana 2</a></li>
         <li class="sub"><a href="s8-semana3.php">Semestre 8 semana 3</a></li>

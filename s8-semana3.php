@@ -29,8 +29,6 @@
 	  <li>Si el tutor lo requiere, puede invitar al Jefe de Carrera para resolver dudas sobre este proceso.</li>
 	</ol>
 
-	</div>
-
 	<a href="index.php" class ="atras"><</a>
 	<a href="operacion.php" class ="siguiente">></a>
       </div>
