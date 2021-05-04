@@ -30,8 +30,8 @@
 	  <li>Discutir en plenaria las medidas a considerar a partir de ese momento con respecto a sus redes sociales.</li>
 	</ol>
 
-	<a href="index.php" class ="atras"><</a>
-	<a href="operacion.php" class ="siguiente">></a>
+	<a href="s7-semana1.php" class ="atras"><</a>
+	<a href="s7-semana3.php" class ="siguiente">></a>
       </div>
   </div>
 
