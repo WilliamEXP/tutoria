@@ -31,9 +31,6 @@
         <li><a href="s1-semana14.php" id="s1-semana14">Evaluación de los tutorados</a></li>
         <li><a href="s1-semana15.php" id="s1-semana15">Un día por mi Tec</a></li>
         <li><a href="s1-semana16.php" id="s1-semana16">Avance Escolar</a></li>
-        
-        
-       
        </div>
        
         <script>
