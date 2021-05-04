@@ -31,8 +31,8 @@
 	  <li>Finalizar con un espacio para comentarios con los estudiantes.</li>
 	</ol>
 
-	<a href="index.php" class ="atras"><</a>
-	<a href="operacion.php" class ="siguiente">></a>
+	<a href="s8-semana6.php" class ="atras"><</a>
+	<a href="s8-semana8.php" class ="siguiente">></a>
       </div>
   </div>
 

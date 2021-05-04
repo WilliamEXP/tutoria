@@ -30,8 +30,8 @@
             </ul>
         </div>
 
-        <a href="index.php" class="atras"><</a>
-        <a href="operacion.php" class="siguiente">></a>
+        <a href="s8-semana11.php" class="atras"><</a>
+        <a href="operacion13.php" class="siguiente">></a>
     </div>
 </body>
 

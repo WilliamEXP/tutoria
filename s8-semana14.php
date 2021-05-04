@@ -32,8 +32,8 @@
             <p> <b>Nota:</b> Para el desarrollo de las actividades de la semana 15 UN DÍA POR MI TEC, el tutor deberá definir con su Jefatura de Carrera las necesidades, insumos, implementos de trabajo y seguridad necesarios para llevarlas a cabo. </p>
         </div>
 
-        <a href="index.php" class="atras"><</a>
-        <a href="operacion.php" class="siguiente">></a>
+        <a href="s8-semana13.php" class="atras"><</a>
+        <a href="s8-semana15.php" class="siguiente">></a>
     </div>
 </body>
 

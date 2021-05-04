@@ -27,7 +27,7 @@
 
         </div>
 
-        <a href="s7-semana16.php" class="atras"><</a>
+        <a href="s7-semana15.php" class="atras"><</a>
         <a href="index.php" class="siguiente">Inicio</a>
     </div>
 </body>

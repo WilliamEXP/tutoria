@@ -30,8 +30,8 @@
 	  <li>El Tutor en plenaria concluirá con la idea de cómo una empresa podría no seleccionar cierto tipo de personalidad debido a que impedirá un buen desarrollo de sus actividades.</li>
 	</ol>
 
-	<a href="index.php" class ="atras"><</a>
-	<a href="operacion.php" class ="siguiente">></a>
+	<a href="s8-semana5.php" class ="atras"><</a>
+	<a href="s8-semana7.php" class ="siguiente">></a>
       </div>
   </div>
 
