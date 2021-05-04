@@ -14,7 +14,7 @@
         <div class="menu active">
         
         <h3 class = "txt-center">Índice | Semestre 1</h3>
-        
+        <li><a href="index.php">Inicio</a></li>
         <li><a href="s1-semana1.php" id="s1-semana1">Presentación / Foto grupal</a></li>
         <li><a href="s1-semana2.php" id="s1-semana2">Funcionamiento del ITS Motul</a></li>
         <li><a href="s1-semana3.php" id="s1-semana3">Funcionamiento del ITS Motul (parte II)</a></li>

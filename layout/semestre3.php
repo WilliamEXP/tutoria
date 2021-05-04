@@ -15,22 +15,22 @@
         
         <h3 class = "txt-center">Índice | Semestre 3</h3>
         
-        <li><a href="s3-semana1.php">Presentación / Foto grupal</a></li>
-        <li><a href="s3-semana2.php">Escucha activa</a></li>
-        <li><a href="s3-semana3.php">Redacción de correo electrónico</a></li>
-        <li><a href="s3-semana4.php">Participación en programas de formación integral</a></li>
-        <li><a href="s3-semana5.php">Avance Escolar</a></li>
-        <li><a href="s3-semana6.php">Análisis de retícula</a></li>
-        <li><a href="s3-semana7.php">Busqueda de información</a></li>
-        <li><a href="s3-semana8.php">Elaboración de mapas conceptuales</a></li>
-        <li><a href="s3-semana9.php">Avance Escolar</a></li>
-        <li><a href="s3-semana10.php">Elaboración de mapas mentales</a></li>
-        <li><a href="s3-semana11.php">Elaboración de cuadros sinópticos</a></li>
-        <li><a href="s3-semana12.php">Evaluación de los tutorados</a></li>
-        <li><a href="s3-semana13.php">Avance Escolar</a></li>
-        <li><a href="s3-semana14.php">Evaluación de los tutorados</a></li>
-        <li><a href="s3-semana15.php">Un día por mi Tec</a></li>
-        <li><a href="s3-semana16.php">Avance Escolar</a></li>
+        <li><a href="s3-semana1.php" id="s3-semana1">Presentación / Foto grupal</a></li>
+        <li><a href="s3-semana2.php" id="s3-semana2">Escucha activa</a></li>
+        <li><a href="s3-semana3.php" id="s3-semana3">Redacción de correo electrónico</a></li>
+        <li><a href="s3-semana4.php" id="s3-semana4">Participación en programas de formación integral</a></li>
+        <li><a href="s3-semana5.php" id="s3-semana5">Avance Escolar</a></li>
+        <li><a href="s3-semana6.php" id="s3-semana6">Análisis de retícula</a></li>
+        <li><a href="s3-semana7.php" id="s3-semana7">Busqueda de información</a></li>
+        <li><a href="s3-semana8.php" id="s3-semana8">Elaboración de mapas conceptuales</a></li>
+        <li><a href="s3-semana9.php" id="s3-semana9">Avance Escolar</a></li>
+        <li><a href="s3-semana10.php" id="s3-semana10">Elaboración de mapas mentales</a></li>
+        <li><a href="s3-semana11.php" id="s3-semana11">Elaboración de cuadros sinópticos</a></li>
+        <li><a href="s3-semana12.php" id="s3-semana12">Evaluación de los tutorados</a></li>
+        <li><a href="s3-semana13.php" id="s3-semana13">Avance Escolar</a></li>
+        <li><a href="s3-semana14.php" id="s3-semana14">Evaluación de los tutorados</a></li>
+        <li><a href="s3-semana15.php" id="s3-semana15">Un día por mi Tec</a></li>
+        <li><a href="s3-semana16.php" id="s3-semana16">Avance Escolar</a></li>
         
         
        

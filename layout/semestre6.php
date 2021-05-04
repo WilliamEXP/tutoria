@@ -9,28 +9,28 @@
 </head>
 <body>
 
-    <h3 class="titulo">La Tutoría como estrategia para la formación integral | Semestre 1</h3>  
+    <h3 class="titulo">La Tutoría como estrategia para la formación integral | Semestre 6</h3>  
     <div class="container" >
         <div class="menu active">
         
-        <h3 class = "txt-center">Índice | Semestre 1</h3>
-        
-        <li><a href="s6-semana1.php" class = "active">Presentación / Foto grupal</a></li>
-        <li><a href="s6-semana2.php">Funcionamiento del ITS Motul</a></li>
-        <li><a href="s6-semana3.php">Funcionamiento del ITS Motul (parte II)</a></li>
-        <li><a href="s6-semana4.php">Transición Bachillerato - Educación Superior</a></li>
-        <li><a href="s6-semana5.php">Avance Escolar</a></li>
-        <li><a href="s6-semana6.php">Elaboración del expediente</a></li>
-        <li><a href="s6-semana7.php">La línea de la vida</a></li>
-        <li><a href="s6-semana8.php">FODA personal</a></li>
-        <li><a href="s6-semana9.php">Avance Escolar</a></li>
-        <li><a href="s6-semana10.php">Evaluación de docente</a></li>
-        <li><a href="s6-semana11.php">Evaluación tutor y tutorado</a></li>
-        <li><a href="s6-semana12.php">Evaluación de los tutorados</a></li>
-        <li><a href="s6-semana13.php">Avance Escolar</a></li>
-        <li><a href="s6-semana14.php">Evaluación de los tutorados</a></li>
-        <li><a href="s6-semana15.php">Un día por mi Tec</a></li>
-        <li><a href="s6-semana16.php">Avance Escolar</a></li>
+        <h3 class = "txt-center">Índice | Semestre 6</h3>
+        <li><a href="index.php">Inicio</a></li>
+        <li><a href="s6-semana1.php" id="s6-semana1">Presentación / Foto grupal</a></li>
+        <li><a href="s6-semana2.php" id="s6-semana2">Servicio social</a></li>
+        <li><a href="s6-semana3.php" id="s6-semana3">Innovación Tecnológica</a></li>
+        <li><a href="s6-semana4.php" id="s6-semana4">Emprendimiento</a></li>
+        <li><a href="s6-semana5.php" id="s6-semana5">Avance Escolar</a></li>
+        <li><a href="s6-semana6.php" id="s6-semana6">Investigación y desarrollo tecnológico</a></li>
+        <li><a href="s6-semana7.php" id="s6-semana7">Manejo de Conflictos</a></li>
+        <li><a href="s6-semana8.php" id="s6-semana8">Inteligencia emocional</a></li>
+        <li><a href="s6-semana9.php" id="s6-semana9">Avance Escolar</a></li>
+        <li><a href="s6-semana10.php" id="s6-semana10">Liderazgo</a></li>
+        <li><a href="s6-semana11.php" id="s6-semana11">Liderazgo</a></li>
+        <li><a href="s6-semana12.php" id="s6-semana12">Evaluación de los tutorados</a></li>
+        <li><a href="s6-semana13.php" id="s6-semana13">Avance Escolar</a></li>
+        <li><a href="s6-semana14.php" id="s6-semana14">Evaluación de los tutorados</a></li>
+        <li><a href="s6-semana15.php" id="s6-semana15">Un día por mi Tec</a></li>
+        <li><a href="s6-semana16.php" id="s6-semana16">Avance Escolar</a></li>
         
         
        

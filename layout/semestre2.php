@@ -15,22 +15,22 @@
         
         <h3 class = "txt-center">Índice | Semestre 2</h3>
         
-        <li><a href="s2-semana1.php">Presentación / Foto grupal</a></li>
-        <li><a href="s2-semana2.php">Consecuencias y responsabilidades de la sexualidad activa</a></li>
-        <li><a href="s2-semana3.php">Inducción al programa de lengua extranjera</a></li>
-        <li><a href="s2-semana4.php">Orientación vocacional</a></li>
-        <li><a href="s2-semana5.php">Avance Escolar</a></li>
-        <li><a href="s2-semana6.php">Estilo de aprendizaje</a></li>
-        <li><a href="s2-semana7.php">Test de autoestima</a></li>
-        <li><a href="s2-semana8.php">Test de asertividad</a></li>
-        <li><a href="s2-semana9.php">Avance Escolar</a></li>
-        <li><a href="s2-semana10.php">Asertividad</a></li>
-        <li><a href="s2-semana11.php">Cargas académicas (reprobación, número de ingreso, rezago, pagos, horarios)</a></li>
-        <li><a href="s2-semana12.php">Evaluación de los tutorados</a></li>
-        <li><a href="s2-semana13.php">Avance Escolar</a></li>
-        <li><a href="s2-semana14.php">Evaluación de los tutorados</a></li>
-        <li><a href="s2-semana15.php">Un día por mi Tec</a></li>
-        <li><a href="s2-semana16.php">Avance Escolar</a></li>
+        <li><a href="s2-semana1.php" id="s2-semana1">Presentación / Foto grupal</a></li>
+        <li><a href="s2-semana2.php" id="s2-semana2">Consecuencias y responsabilidades de la sexualidad activa</a></li>
+        <li><a href="s2-semana3.php" id="s2-semana3">Inducción al programa de lengua extranjera</a></li>
+        <li><a href="s2-semana4.php" id="s2-semana4">Orientación vocacional</a></li>
+        <li><a href="s2-semana5.php" id="s2-semana5">Avance Escolar</a></li>
+        <li><a href="s2-semana6.php" id="s2-semana6">Estilo de aprendizaje</a></li>
+        <li><a href="s2-semana7.php" id="s2-semana7">Test de autoestima</a></li>
+        <li><a href="s2-semana8.php" id="s2-semana8">Test de asertividad</a></li>
+        <li><a href="s2-semana9.php" id="s2-semana9">Avance Escolar</a></li>
+        <li><a href="s2-semana10.php" id="s2-semana10">Asertividad</a></li>
+        <li><a href="s2-semana11.php" id="s2-semana11">Cargas académicas (reprobación, número de ingreso, rezago, pagos, horarios)</a></li>
+        <li><a href="s2-semana12.php" id="s2-semana12">Evaluación de los tutorados</a></li>
+        <li><a href="s2-semana13.php" id="s2-semana13">Avance Escolar</a></li>
+        <li><a href="s2-semana14.php" id="s2-semana14">Evaluación de los tutorados</a></li>
+        <li><a href="s2-semana15.php" id="s2-semana15">Un día por mi Tec</a></li>
+        <li><a href="s2-semana16.php" id="s2-semana16">Avance Escolar</a></li>
         
         
        

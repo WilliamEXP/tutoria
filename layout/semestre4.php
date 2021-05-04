@@ -15,22 +15,22 @@
         
         <h3 class = "txt-center">Índice | Semestre 4</h3>
         
-        <li><a href="s4-semana1.php">Presentación / Foto grupal</a></li>
-        <li><a href="s4-semana2.php">comprención lectora</a></li>
-        <li><a href="s4-semana3.php">Elaboración de resúmenes</a></li>
-        <li><a href="s4-semana4.php">TElaboración de ensayo</a></li>
-        <li><a href="s4-semana5.php">Avance Escolar</a></li>
-        <li><a href="s4-semana6.php">Identidad con el programa educativo</a></li>
-        <li><a href="s4-semana7.php">Motivación</a></li>
-        <li><a href="s4-semana8.php">Elaboración de una presentación</a></li>
-        <li><a href="s4-semana9.php">Avance Escolar</a></li>
-        <li><a href="s4-semana10.php">Elaboración de una exposición</a></li>
-        <li><a href="s4-semana11.php">Cambio de turno</a></li>
-        <li><a href="s4-semana12.php">Evaluación de los tutorados</a></li>
-        <li><a href="s4-semana13.php">Avance Escolar</a></li>
-        <li><a href="s4-semana14.php">Evaluación de los tutorados</a></li>
-        <li><a href="s4-semana15.php">Un día por mi Tec</a></li>
-        <li><a href="s4-semana16.php">Avance Escolar</a></li>
+        <li><a href="s4-semana1.php" id="s4-semana1">Presentación / Foto grupal</a></li>
+        <li><a href="s4-semana2.php" id="s4-semana2">comprención lectora</a></li>
+        <li><a href="s4-semana3.php" id="s4-semana3">Elaboración de resúmenes</a></li>
+        <li><a href="s4-semana4.php" id="s4-semana4">TElaboración de ensayo</a></li>
+        <li><a href="s4-semana5.php" id="s4-semana5">Avance Escolar</a></li>
+        <li><a href="s4-semana6.php" id="s4-semana6">Identidad con el programa educativo</a></li>
+        <li><a href="s4-semana7.php" id="s4-semana7">Motivación</a></li>
+        <li><a href="s4-semana8.php" id="s4-semana8">Elaboración de una presentación</a></li>
+        <li><a href="s4-semana9.php" id="s4-semana9">Avance Escolar</a></li>
+        <li><a href="s4-semana10.php" id="s4-semana10">Elaboración de una exposición</a></li>
+        <li><a href="s4-semana11.php" id="s4-semana11">Cambio de turno</a></li>
+        <li><a href="s4-semana12.php" id="s4-semana12">Evaluación de los tutorados</a></li>
+        <li><a href="s4-semana13.php" id="s4-semana13">Avance Escolar</a></li>
+        <li><a href="s4-semana14.php" id="s4-semana14">Evaluación de los tutorados</a></li>
+        <li><a href="s4-semana15.php" id="s4-semana15">Un día por mi Tec</a></li>
+        <li><a href="s4-semana16.php" id="s4-semana16">Avance Escolar</a></li>
         
         
        
