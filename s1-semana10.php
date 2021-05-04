@@ -30,9 +30,8 @@
             <h3>Pasos a seguir:</h3>
 
             <ol type = "a">
-                <li>El tutor presentará ante los alumnos los
-                cuestionarios de Evaluación docente.
-                Disponible en Material. </li>
+                <li>El tutor presentará ante los alumnos el
+                 <a href="https://drive.google.com/file/d/1T4xoqbfKhIpnKtg4GrrF2JxJnyZfV9kq/view?usp=sharing">Cuestionario de Evaluación docente.</a></li>
                 <li>El tutor explicará cada una de las preguntas de
                 cada cuestionario.</li>
                 <li>El tutor informará de la fecha, hora y lugar para

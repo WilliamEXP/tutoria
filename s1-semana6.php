@@ -27,10 +27,8 @@
             <h3>Pasos a seguir:</h3>
 
             <ol>
-                <li>El tutor les proporciona el formato de 
-                Expediente a sus tutorados disponible en
-                material. 
-                </li>
+                <li>El tutor les proporciona el <a href="https://drive.google.com/file/d/1_BfjzIF1tZpmqQCWldIvU7KRfPzD1pyW/view?usp=sharing">Formato de Expediente</a>
+                 a sus tutorados.</li>
                 <li>Los tutorados deberán llenar el formato 
                 y entregárselo a su tutor para archivar.</li>
             </ol>
