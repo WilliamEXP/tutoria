@@ -17,15 +17,15 @@
         
         <li><a href="s4-semana1.php">Presentación / Foto grupal</a></li>
         <li><a href="s4-semana2.php">comprención lectora</a></li>
-        <li><a href="s4-semana3.php">Funcionamiento del ITS Motul (parte II)</a></li>
-        <li><a href="s4-semana4.php">Transición Bachillerato - Educación Superior</a></li>
+        <li><a href="s4-semana3.php">Elaboración de resúmenes</a></li>
+        <li><a href="s4-semana4.php">TElaboración de ensayo</a></li>
         <li><a href="s4-semana5.php">Avance Escolar</a></li>
-        <li><a href="s4-semana6.php">Elaboración del expediente</a></li>
-        <li><a href="s4-semana7.php">La línea de la vida</a></li>
-        <li><a href="s4-semana8.php">FODA personal</a></li>
+        <li><a href="s4-semana6.php">Identidad con el programa educativo</a></li>
+        <li><a href="s4-semana7.php">Motivación</a></li>
+        <li><a href="s4-semana8.php">Elaboración de una presentación</a></li>
         <li><a href="s4-semana9.php">Avance Escolar</a></li>
-        <li><a href="s4-semana10.php">Evaluación de docente</a></li>
-        <li><a href="s4-semana11.php">Evaluación tutor y tutorado</a></li>
+        <li><a href="s4-semana10.php">Elaboración de una exposición</a></li>
+        <li><a href="s4-semana11.php">Cambio de turno</a></li>
         <li><a href="s4-semana12.php">Evaluación de los tutorados</a></li>
         <li><a href="s4-semana13.php">Avance Escolar</a></li>
         <li><a href="s4-semana14.php">Evaluación de los tutorados</a></li>
@@ -38,13 +38,83 @@
        
         <script>
 switch (window.location.pathname) {
-    case '/tutorias/index.php':
-        var elemento = document.getElementById("index");
+    case '/tutoria/s4-semana1.php':
+        var elemento = document.getElementById("s4-semana1");
                                 elemento.className += " active";
 
     break;
-    case '/tutorias/introduccion.php':
-        var elemento = document.getElementById("introduccion");
+    case '/tutoria/s4-semana2.php':
+        var elemento = document.getElementById("s4-semana2");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana3.php':
+        var elemento = document.getElementById("s4-semana3");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana4.php':
+        var elemento = document.getElementById("s4-semana4");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana5.php':
+        var elemento = document.getElementById("s4-semana5");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana6.php':
+        var elemento = document.getElementById("s4-semana6");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana7.php':
+        var elemento = document.getElementById("s4-semana7");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana8.php':
+        var elemento = document.getElementById("s4-semana8");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana8.php':
+        var elemento = document.getElementById("s4-semana9");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana10.php':
+        var elemento = document.getElementById("s4-semana10");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana11.php':
+        var elemento = document.getElementById("s4-semana11");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana12.php':
+        var elemento = document.getElementById("s4-semana12");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana13.php':
+        var elemento = document.getElementById("s4-semana13");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana14.php':
+        var elemento = document.getElementById("s4-semana14");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana15.php':
+        var elemento = document.getElementById("s4-semana15");
+                                elemento.className += " active";
+                                
+    break;
+    case '/tutoria/s4-semana16.php':
+        var elemento = document.getElementById("s4-semana16");
                                 elemento.className += " active";
                                 
     break;
