@@ -23,6 +23,7 @@ body {
   text-decoration: none;
   padding: 0px 5px 10px 0;
   transition: all 0.25s ease;
+  text-transform: capitalize;
 }
 .menu li a {
   display: block;
@@ -91,10 +92,12 @@ h1 {
 h2 {
   margin-top: 50px;
   font-family: "Noto Sans JP", sans-serif;
+  text-align:left;
 }
 h3 {
   margin-top: 40px;
   font-family: "Noto Sans JP", sans-serif;
+  text-align:left;8
 }
 p,
 li {
@@ -224,7 +227,6 @@ li {
   transform: translateY(-7px);
 }
 
-
 /* ocultar menu */
 /* #menu_on2 {
   display: block;
@@ -283,10 +285,6 @@ li {
 
 /* ---------------------------- resposividad -------------------------- */
 
-
-
-
-
 @media only screen and (max-width: 900px) {
   .container {
     margin-top: 15px;
@@ -334,7 +332,7 @@ li {
     display: block;
     position: absolute;
   }
- /* Menu responsivo */
+  /* Menu responsivo */
   #menu_on {
     display: block;
     width: 30px;
@@ -387,9 +385,6 @@ li {
   .ver .main {
     transform: translateX(50px);
   }
-  .ver2 {
-    display: none;
-  }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -413,9 +408,7 @@ li {
   }
 }
 
-
 /* ----------------------------- formato para impresion ---------------------------- */
-
 
 @media print {
   .atras,
@@ -444,6 +437,7 @@ li {
     font-family: "Noto Sans JP", sans-serif;
     text-align: center;
     font-size: 14px;
+    text-transform: uppercase;
   }
   h2 {
     margin-top: 0px;

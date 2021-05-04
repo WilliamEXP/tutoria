@@ -55,14 +55,14 @@
         <p>Para ello es importante que el Tutor aprenda estrategias de diagnóstico que le permitan detectar casos que superan su competencia, para poder canalizarlos con las instancias correspondientes. En este sentido, la comunicación con la Coordinación del Programa de Tutorías resulta fundamental para el caso de requerir canalizar al estudiante a una instancia externa de apoyo, por ejemplo.</p>
 
         <p>Es importante precisar que en la Tutoría, no es prioritario y no forma parte de sus funciones:</p>
-    <ul>
+    <ol type="a">
         <li>Examinar aspectos relacionados con las vivencias y actitudes de los estudiantes que no interfieren en su aprovechamiento escolar.</li>
 
         <li>Tratar problemas existenciales.</li>
         <li>Proporcionar servicios de consejería sentimental.</li>
         
         <li>Atender e involucrarse en asuntos personales, emocionales, afectivos o económicos de los estudiantes.</li>
-    </ul>
+    </ol>
     
 
     <h2>Desarrolo profecional</h2>

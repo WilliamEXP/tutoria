@@ -56,75 +56,75 @@
           institución (ITSM, 2013), los Tutores tendrán las siguientes
           responsabilidades:
         </p>
-
-        <p>
-          a) Los Tutores desempeñarán las funciones de desarrollo Académicas,
+        <ol type="a">
+        <li>
+          Los Tutores desempeñarán las funciones de desarrollo Académicas,
           Personal y Profesional, al implementar las Actividades consideras en
           la Tutoría Grupal e Individual.
-        </p>
-        <p>
-          b) Observar las recomendaciones que le haga la Coordinación de
+        </li>
+        <li>
+          Observar las recomendaciones que le haga la Coordinación de
           Tutorías para el logro de los objetivos institucionales, eso incluye
           la observancia de los documentos que para el desempeño de la Tutoría
           le sean asignados.
-        </p>
-        <p>
-          c) Realizar un seguimiento del desempeño académico y conductual de los
+        </li>
+        <li>
+          Realizar un seguimiento del desempeño académico y conductual de los
           alumnos bajo su tutela.
-        </p>
-        <p>
-          d) Programar sesiones de tutoría grupal que estén orientadas a
+        </li>
+        <li>
+          Programar sesiones de tutoría grupal que estén orientadas a
           resolver problemas particulares del grupo referentes a su rendimiento
           académico, su relación con los docentes y estructura administrativa,
           así como promover mediante diversas estrategias, una formación
           integral de los miembros del grupo.
-        </p>
-        <p>
-          e) Programar Tutorías individuales con aquellos estudiantes que
+        </li>
+        <li>
+          Programar Tutorías individuales con aquellos estudiantes que
           producto de la detección oportuna requieran revisar la mejor forma de
           prevenir la reprobación o deserción del estudiante, así como obtener
           información adicional que permita el apoyo del Tutor en el logro
           escolar del alumno.
-        </p>
-        <p>
-          f) Detectar oportunamente a los estudiantes que registren bajo
+        </li>
+        <li>
+          Detectar oportunamente a los estudiantes que registren bajo
           rendimiento académico para encauzarlos hacia su recuperación mediante
           la asesoría pertinente.
-        </p>
-        <p>
-          g) Detectar oportunamente a los estudiantes que registren un
+        </li>
+        <li>
+          Detectar oportunamente a los estudiantes que registren un
           comportamiento que pueda configurar en el futuro la deserción del
           estudiante.
-        </p>
-        <p>
-          h) Mantener informado al Coordinador del Programa Educativo al que
+        </li>
+        <li>
+          Mantener informado al Coordinador del Programa Educativo al que
           esté adscrito y al Coordinador de tutorías para apoyarlo en las
           acciones académicas que le solicite.
-        </p>
-        <p>
-          i) Promover la formación de grupos de estudio en los que los alumnos
+        </li>
+        <li>
+          Promover la formación de grupos de estudio en los que los alumnos
           con bajo rendimiento académico reciban la asesoría que corresponda.
           Las asesorías académicas serán promovidas por el Tutor siempre que
           cuente con la evidencia correspondiente.
-        </p>
-        <p>
-          j) Realizar reuniones con los padres para abordar temas de interés
+        </li>
+        <li>
+          Realizar reuniones con los padres para abordar temas de interés
           común relacionados con la educación de éstos, siempre que lo comunique
           con oportunidad y cuente con la autorización del Coordinador del
           Programa Institucional de Tutorías.
-        </p>
-        <p>k) Llevar un registro periódico de las reuniones.</p>
-        <p>
-          l) Elaborar un informe semestral de la evolución del grupo, así como
+        </li>
+        <li>Llevar un registro periódico de las reuniones.</li>
+        <li>
+          Elaborar un informe semestral de la evolución del grupo, así como
           un análisis de los casos particulares de reprobación, deserción o
           potencial fracaso escolar.
-        </p>
-        <p>
-          m) Entregar toda la documentación que le requiera el Coordinador del
+        </li>
+        <li>
+          Entregar toda la documentación que le requiera el Coordinador del
           Programa Institucional de Tutorías, orientada a evaluar su desempeño
           como Tutor.
-        </p>
-
+        </li>
+        </ol>
         <a href="tuto_indi.php" class="atras"><</a>
         <a href="contexto.php" class="siguiente">></a>
       </div>

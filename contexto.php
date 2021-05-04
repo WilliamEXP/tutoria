@@ -24,21 +24,22 @@
        
         <p>Para el caso de la tutoría, el poder medir el grado de eficacia y eficiencia en sus procesos garantiza que la regulación del sistema escolar se mantenga vigente, pertinente y contribuya responsablemente al logro escolar de los estudiantes y sea un elemento valioso en la formación integral que se anhela. </p>
         <p>La evaluación que se realiza a los Tutores se plantea los siguientes objetivos como mecanismo de mejora:</p>
-        
-        <p>a) Dar seguimiento a la trayectoria de los estudiantes.</p>
-            <p>b) Analizar el entorno donde se realiza el programa de tutoría (tipo de institución, recursos naturales y humanos). </p>
-            <p>c) Diseñar las actividades semestrales del programa (metas, objetivos, contenidos, planificación y previsión de problemas). </p>
-            <p>d) Operar el programa Institucional de Tutorías (PIT).</p>
+        <ol type="a">
+        <li>Dar seguimiento a la trayectoria de los estudiantes.</li>
+            <li>Analizar el entorno donde se realiza el programa de tutoría (tipo de institución, recursos naturales y humanos). </li>
+            <li>Diseñar las actividades semestrales del programa (metas, objetivos, contenidos, planificación y previsión de problemas). </li>
+            <li>Operar el programa Institucional de Tutorías (PIT).</li>
 
-            <p>e) Evaluar la función tutorial por parte de los estudiantes. </p>
+            <li>Evaluar la función tutorial por parte de los estudiantes. </li>
 
-            <p>f)Evaluar las dificultades de la acción tutorial por parte del tutor. </p>
-
+            <li>Evaluar las dificultades de la acción tutorial por parte del tutor. </li>
+            </ol>
             <p>La información aportada por los resultados de los instrumentos de evaluación y de los criterios establecidos permitirá al Departamento de Tutoría:</p>
             
-            <p>a) Proporcionar al Tutor elementos para la formación y la reflexión sobre la mejora de su práctica.</p>
-            <p>b) Proporcionar a los estudiantes un modo de expresión de su grado de satisfacción con la docencia, con la acción Tutorial y con la Institución.</p>
-            
+            <ol type="a">
+            <li>Proporcionar al Tutor elementos para la formación y la reflexión sobre la mejora de su práctica.</li>
+            <li> Proporcionar a los estudiantes un modo de expresión de su grado de satisfacción con la docencia, con la acción Tutorial y con la Institución.</li>
+            </ol>
        
     <a href="comite.php" class ="atras"><</a>
     <a href="definiciones.php" class ="siguiente">></a>

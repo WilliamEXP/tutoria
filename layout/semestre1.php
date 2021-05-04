@@ -4,15 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Document</title>
+    <title>Semestre 1</title>
+    <script
+        src="http://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+        crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/funcion.js"></script>
 </head>
 <body>
-
-    <h3 class="titulo">La Tutoría como estrategia para la formación integral | Semestre 1</h3>  
-    <div class="container" >
-        <div class="menu active">
+<div>
+  <header id="#header">
+			<a href="#" id="menu_on">
+				<span></span>
+				<span></span>
+				<span></span>
+			</a>
+		</header>
         
+    <h3 class="titulo"> La Tutoría como estrategia para la formación integral | Semestre 1</h3>  
+  </div>
+    <div class="container" >
+        <div class="menu">
         <h3 class = "txt-center">Índice | Semestre 1</h3>
         <li><a href="index.php">Inicio</a></li>
         <li><a href="s1-semana1.php" id="s1-semana1">Presentación / Foto grupal</a></li>
