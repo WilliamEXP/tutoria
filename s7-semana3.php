@@ -41,8 +41,8 @@
 	  <li>Los estudiantes expondrán sus dudas y se aclararán en plenaria.</li>
 	</ol>
 
-	<a href="index.php" class ="atras"><</a>
-	<a href="operacion.php" class ="siguiente">></a>
+	<a href="s7-semana2.php" class ="atras"><</a>
+	<a href="s7-semana4.php.php" class ="siguiente">></a>
       </div>
   </div>
 
