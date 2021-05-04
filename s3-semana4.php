@@ -17,7 +17,6 @@
 
     <div class="main">
         <div class="text txt-justify">
-            <h1>Semestre 3</h1>
 
             <h2>Semana 4 | PARTICIPACIÓN EN PROGRAMAS DE FORMACIÓN INTEGRAL.</h2>
 
@@ -27,7 +26,7 @@
             <h3>Pasos a seguir:</h3>
 
             <ol>
-                <li>El tutor proyectará a los estudiantes el capítulo 10 del manual de lineamientos vigente del TecNM, disponible en el material.</li>
+                <li>El tutor proyectará a los estudiantes el <a href="https://drive.google.com/file/d/10jGAKUfcBnYSlmZ71wHU9JsNQhrGTwdh/view?usp=sharing">capítulo 10 del manual de lineamientos</a> vigente del TecNM, disponible en el material.</li>
                 <li>Seguido a esto, el tutor expondrá las características principales de las actividades de formación integral que los estudiantes deben cumplir durante su trayectoria académica (se anexa una presentación en el material de apoyo para utilizar).</li>
                 <li>El tutor cerrará la sesión resaltando la importancia de cumplir con las actividades de complementarias, para que el alumno adquiera las competencias necesarias para su desarrollo profesional.</li>
                 <li>También deberá resaltar que estas actividades se deben de cumplir como requisito para la terminación en tiempo y forma del plan de estudios del programa educativo.</li>

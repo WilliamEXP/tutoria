@@ -139,13 +139,5 @@ switch (window.location.pathname) {
                     })
                 });
         </script>
-        <script>
-            $( document ).ready(function() {
-                $('#menu_on2').click(function(){
-    	        $('body').toggleClass('ver2');
-                $('.menu').toggleClass('ver2');
-                 })
-            });
-        </script>
 </body>
 </html>
