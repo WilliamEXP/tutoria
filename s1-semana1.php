@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    
 </head>
 
 <body>
@@ -26,16 +27,16 @@
 
             <h3>Pasos a seguir:</h3>
 
-            <ul>
+            <ol type ="1">
                 <li>El Tutor presentará ante el grupo las actividades a realizarse durante el semestre como parte de su formación integral.</li>
                 <li>El Tutor les indicará los principales elementos a considerar sobre el desarrollo de las actividades del semestre.</li>
                 <li>Proporcionar servicios de consejería sentimental.</li>
                 <li>Se discutirán fechas probables para la foto grupal y se organizarán las locaciones y la vestimenta apropiada para la actividad.</li>
-            </ul>
+            </ol>
         </div>
 
         <a href="index.php" class="atras"><</a>
-        <a href="operacion.php" class="siguiente">></a>
+        <a href="s1-semana2.php" class="siguiente">></a>
     </div>
 </body>
 
