@@ -13,32 +13,34 @@
 </head>
 
 <body>
-    <?php include('layout/semestre1.php'); ?>
+    <?php include('layout/semestre2.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
 
-            <h2>Semana 16 | AVANCE ESCOLAR</h2>
+            <h2>Semana 3 | INDUCCIÓN AL PROGRAMA DE LENGUA EXTRANJERA</h2>
 
             <h3>Descripción</h3>
             <p>
-            Identificar el avance escolar de los tutorados y detalles importantes de su situación académica.
+            Mencionar sobre la importancia del idioma inglés
+            como como complemento a la formación profesional, ya que durante este semestre inician los cursos.
             </p>
 
             <h3>Pasos a seguir:</h3>
 
-            <p>
-            Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. 
-            Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan 
-            importantes señales de bajo rendimiento, 
-            asistencia o comportamiento inadecuado con las notas correspondientes.
-            </p>
+            <ol>
+                <li>
+                	El Tutor deberá programar e invitar a un docente o al coordinador de inglés para brindar a los 
+                    estudiantes un intercambio de ideas acerca de la importancia del estudio del idioma.
+                </li>
+                
+            </ol>
 
             
         </div>
 
-        <a href="s1-semana15.php" class="atras"><</a>
-        <a href="s2-semana1.php" class="siguiente">></a>
+        <a href="s2-semana2.php" class="atras"><</a>
+        <a href="s2-semana4.php" class="siguiente">></a>
     </div>
 </body>
 
