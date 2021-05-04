@@ -9,11 +9,11 @@
 </head>
 <body>
 
-    <h3 class="titulo">La Tutoría como estrategia para la formación integral | Semestre 1</h3>  
+    <h3 class="titulo">La Tutoría como estrategia para la formación integral | Semestre 2</h3>  
     <div class="container" >
         <div class="menu active">
         
-        <h3 class = "txt-center">Índice | Semestre 1</h3>
+        <h3 class = "txt-center">Índice | Semestre 2</h3>
         
         <li><a href="s2-semana1.php">Presentación / Foto grupal</a></li>
         <li><a href="s2-semana2.php">Consecuencias y responsabilidades de la sexualidad activa</a></li>
