@@ -13,25 +13,28 @@
 </head>
 
 <body>
-    <?php include('layout/semestre1.php'); ?>
+    <?php include('layout/template.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
-            <h1>Semestre 1</h1>
 
-            <h2>Semana 1 | PRESENTACIÓN / FOTO GRUPAL</h2>
+            <h2>Semana 16 | AVANCE ESCOLAR</h2>
 
             <h3>Descripción</h3>
-            <p>Introducción del Programa Institucional de Tutoría (PIT) del semestre y organización de la foto grupal con el Tutor.</p>
+            <p>
+            Identificar el avance escolar de los tutorados y detalles importantes de su situación académica.
+            </p>
 
             <h3>Pasos a seguir:</h3>
 
-            <ul>
-                <li>El Tutor presentará ante el grupo las actividades a realizarse durante el semestre como parte de su formación integral.</li>
-                <li>El Tutor les indicará los principales elementos a considerar sobre el desarrollo de las actividades del semestre.</li>
-                <li>Proporcionar servicios de consejería sentimental.</li>
-                <li>Se discutirán fechas probables para la foto grupal y se organizarán las locaciones y la vestimenta apropiada para la actividad.</li>
-            </ul>
+            <p>
+            Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. 
+            Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan 
+            importantes señales de bajo rendimiento, 
+            asistencia o comportamiento inadecuado con las notas correspondientes.
+            </p>
+
+            
         </div>
 
         <a href="index.php" class="atras"><</a>

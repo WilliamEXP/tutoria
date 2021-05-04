@@ -13,25 +13,28 @@
 </head>
 
 <body>
-    <?php include('layout/semestre1.php'); ?>
+    <?php include('layout/template.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
-            <h1>Semestre 1</h1>
 
-            <h2>Semana 1 | PRESENTACIÓN / FOTO GRUPAL</h2>
+            <h2>Semana 15 | UN DÍA POR MI TEC</h2>
 
             <h3>Descripción</h3>
-            <p>Introducción del Programa Institucional de Tutoría (PIT) del semestre y organización de la foto grupal con el Tutor.</p>
+            <p>
+            Reflexionar sobre la importancia del cuidado de las instalaciones 
+            que se utilizan en el Instituto como parte de su formación integral.
+            </p>
 
             <h3>Pasos a seguir:</h3>
 
-            <ul>
-                <li>El Tutor presentará ante el grupo las actividades a realizarse durante el semestre como parte de su formación integral.</li>
-                <li>El Tutor les indicará los principales elementos a considerar sobre el desarrollo de las actividades del semestre.</li>
-                <li>Proporcionar servicios de consejería sentimental.</li>
-                <li>Se discutirán fechas probables para la foto grupal y se organizarán las locaciones y la vestimenta apropiada para la actividad.</li>
-            </ul>
+            <ol>
+                
+                <li>Los estudiantes se forman en equipos para llevar a cabo las actividades asignadas.</li>
+                
+            </ol>
+
+            
         </div>
 
         <a href="index.php" class="atras"><</a>

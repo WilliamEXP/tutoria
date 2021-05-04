@@ -27,7 +27,7 @@ body {
     
     
 }
-li a {
+.menu li a {
     display: block;
     color: #000;
     padding: 8px 0 8px 16px;
@@ -36,13 +36,13 @@ li a {
     
 }
 
-li a.active {
+.menu li a.active {
     background-color: #140050;
     color: white;
 
 }
 
-li a:hover:not(.active) {
+.menu li a:hover:not(.active) {
     background-color: #1e007a;
     color: #ffffff;
 }
