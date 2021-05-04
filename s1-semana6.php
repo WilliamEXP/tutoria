@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="css/estilo.css">
 </head>
 
 <body>
@@ -18,27 +19,25 @@
     <div class="main">
         <div class="text txt-justify">
 
-            <h2>Semana 16 | AVANCE ESCOLAR</h2>
+            <h2>Semana 6 | ELABORACIÓN DEL EXPEDIENTE</h2>
 
             <h3>Descripción</h3>
-            <p>
-            Identificar el avance escolar de los tutorados y detalles importantes de su situación académica.
-            </p>
+            <p>Elaborar el expediente de los tutorados.</p>
 
             <h3>Pasos a seguir:</h3>
 
-            <p>
-            Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. 
-            Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan 
-            importantes señales de bajo rendimiento, 
-            asistencia o comportamiento inadecuado con las notas correspondientes.
-            </p>
-
-            
+            <ul>
+                <li>1.	El tutor les proporciona el formato de 
+                Expediente a sus tutorados disponible en
+                material. 
+                </li>
+                <li>2.	Los tutorados deberán llenar el formato 
+                y entregárselo a su tutor para archivar.</li>
+            </ul>
         </div>
-
-        <a href="s1-semana15.php" class="atras"><</a>
-        <a href="index.php" class="siguiente">></a>
+        
+        <a href="s1-semana5.php" class="atras"><</a>
+        <a href="s1-semana7.php" class="siguiente">></a>
     </div>
 </body>
 

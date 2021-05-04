@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <?php include('layout/template.php'); ?>
+    <?php include('layout/semestre1.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
@@ -33,8 +33,8 @@
             </p>
         </div>
 
-        <a href="index.php" class="atras"><</a>
-        <a href="operacion.php" class="siguiente">></a>
+        <a href="s1-semana12.php" class="atras"><</a>
+        <a href="s1-semana14.php" class="siguiente">></a>
     </div>
 </body>
 

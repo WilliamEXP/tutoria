@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    
 </head>
 
 <body>
@@ -17,28 +18,29 @@
 
     <div class="main">
         <div class="text txt-justify">
-
-            <h2>Semana 15 | UN DÍA POR MI TEC</h2>
+        
+            <h2>Semana 2 | FUNCIONAMIENTO DEL ITSMOTUL</h2>
 
             <h3>Descripción</h3>
-            <p>
-            Reflexionar sobre la importancia del cuidado de las instalaciones 
-            que se utilizan en el Instituto como parte de su formación integral.
-            </p>
+            <p>Presentación de los principales servicios y 
+            departamentos dentro de la institución</p>
 
             <h3>Pasos a seguir:</h3>
 
-            <ol>
-                
-                <li>Los estudiantes se forman en equipos para llevar a cabo las actividades asignadas.</li>
-                
+            <ol type = "1">
+                <li>El Tutor proyecta la presentación 
+                “Funcionamiento del Tec Parte I” disponible en 
+                el material con el objeto de conocer los
+                departamentos y áreas con los que tendrá 
+                contacto el estudiante para solicitar diferentes 
+                servicios y sus respectivos responsables.</li>
+                <li>De ser posible, dar un paseo por las 
+                instalaciones</li>
             </ol>
-
-            
         </div>
 
-        <a href="s1-semana14.php" class="atras"><</a>
-        <a href="s1-semana16.php" class="siguiente">></a>
+        <a href="s1-semana1.php" class="atras"><</a>
+        <a href="s1-semana3.php" class="siguiente">></a>
     </div>
 </body>
 
