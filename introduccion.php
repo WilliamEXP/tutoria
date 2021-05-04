@@ -37,10 +37,10 @@
 
         <p>La Tutoría se desarrolla con base en tres ejes fundamentales: desarrollo académico, desarrollo personal y desarrollo profesional (como puede observarse en la Figura 1). Cada eje fue considerado en la planificación de las actividades grupales a desarrollar por los tutores.</p>
 
-        <div class="img">
-        <p><img src="img/gra1.png" width ="auto" height = "350px"></p>
-        <p class=>Figura 1. Ejes fundamentales de la Tutoría</p>
-        </div>
+       
+        <img src="img/gra1.png" class="img">
+        <p class = "pie">Figura 1. Ejes fundamentales de la Tutoría</p>
+      
         <br>
         <p>El eje de desarrollo personal se desarrollará de manera primordial en los primeros tres semestres de los programas educativos, mientras que la formación académica se enfoca en el conocimiento de las actividades, normativas y programas vigentes en el Instituto a lo largo de los seis primeros semestres. Finalmente, el desarrollo profesional se concentra en los dos últimos semestres para preparar a los estudiantes cuando inicien los procesos externos de servicio social y residencia profesional.</p>
 

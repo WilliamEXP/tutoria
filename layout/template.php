@@ -10,8 +10,8 @@
 <body>
 
     <h3 class="titulo">La Tutoría como estrategia para la formación integral</h3>  
-    <div class="container">
-        <div class="menu">
+    <div class="container" >
+        <div class="menu active">
         
         <h3 class = "txt-center">Índice</h3>
         <li><a href="index.php" id = "index">Directorio</a></li>

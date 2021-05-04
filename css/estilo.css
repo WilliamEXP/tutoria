@@ -14,7 +14,7 @@ body {
   }
 
   /* ---------------- menu ------------------------- */
-  .container .menu
+  .menu
 {
     list-style-type: none;
     background-color: #eeeeee89;
@@ -48,9 +48,9 @@ li a:hover:not(.active) {
 }
 .sub
 {
-    padding: 5px 20px;
+    padding: 0px 20px;
 }
-.container .main
+.main
 {
     align-content: flex-end;
     padding: 5px 30px;
@@ -98,14 +98,6 @@ h1
     text-align:center
 
 }
-.t_grande 
-{
-    padding: 25% 0px;
-    font-family: 'Noto Sans JP', sans-serif;
-    text-align:center;
-    font-size: 50px;
-
-}
 h2 
 {
     margin-top: 100px;
@@ -130,20 +122,32 @@ p, li
 {
     text-align:justify;  
 }
+.t_grande 
+{
+    padding: 25% 0px;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align:center;
+    font-size: 50px;
+
+}
 
 /* ---------------------------- atributos imagen -------------------------- */
 .img
 {
     display:block;
-    margin:auto;
+    margin: auto;
+    max-width: 100%
 }
-.img p
+.pie
 {
     text-align: center;
     font-style: italic;
-    font-size: smaller;
+   
     text-indent: 0;
 }
+
+
+
 
 /*--------------Botones-------------------*/
 .siguiente {
@@ -168,17 +172,6 @@ p, li
 	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
 	transform: translateY(0px);
 }
-@media only screen and (max-width: 600px) {
- 	.siguinete {
-		font-size: 14px;
-		padding: 12px 20px;
-		bottom: 20px;
-		right: 20px;
-	}
-}
-
-
-
 .atras {
 	font-weight: bold; 
 	color: #ffffff; 
@@ -200,17 +193,6 @@ p, li
 	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
 	transform: translateY(0px);
 }
-@media only screen and (max-width: 600px) {
- 	.atras {
-		font-size: 14px;
-		padding: 12px 20px;
-		bottom: 20px;
-		left: 20px;
-	}
-}
-
-
-
 .volver {
 	font-weight: bold; 
 	color: #ffffff; 
@@ -232,13 +214,34 @@ p, li
 	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
 	transform: translateY(-7px);
 }
-@media only screen and (max-width: 600px) {
- 	.atras {
+/* ---------------------------- resposividad -------------------------- */
+
+.active
+    {
+        display:flow-root;
+    }
+
+@media only screen and (max-width: 900px) {
+    .menu {display: none;}
+    .atras {
+		font-size: 14px;
+		padding: 12px 20px;
+		bottom: 40px;
+		left: 5%;
+	}
+    .siguiente {
+		font-size: 14px;
+		padding: 10px 20px;
+		bottom: 40px;
+		right: 5%;
+	}
+    .volver {
 		font-size: 14px;
 		padding: 12px 20px;
 		bottom: 20px;
 		left: 20px;
 	}
+   
 }
 
 
