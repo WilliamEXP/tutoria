@@ -10,8 +10,8 @@
 <body>
 
     <h3 class="titulo">La Tutoría como estrategia para la formación integral</h3>  
-    <div class="container">
-        <div class="menu">
+    <div class="container" >
+        <div class="menu active">
         
         <h3>Índice</h3>
         <li><a href="index.php" id = "index">Directorio</a></li>
@@ -31,7 +31,16 @@
         <li class="sub"><a href="formato.html">Formato de Trabajo</a></li>
     
         <li><a href="guia.html">Guia Para el Tutor</a></li>
-        <li class="sub"><a href="sesion1.html">Semestre 1</a></li>
+        <li class="sub"><a href="s1-semana1.php">Semestre 1</a></li>
+        <li class="sub"><a href="s2-semana1.php">Semestre 2</a></li>
+        <li class="sub"><a href="s3-semana1.php">Semestre 3</a></li>
+        <li class="sub"><a href="s4-semana1.php">Semestre 4</a></li>
+        <li class="sub"><a href="s5-semana1.php">Semestre 5</a></li>
+        <li class="sub"><a href="s6-semana1.php">Semestre 6</a></li>
+        <li class="sub"><a href="s7-semana1.php">Semestre 7</a></li>
+        <li class="sub"><a href="s8-semana1.php">Semestre 8</a></li>
+        
+        
        
        </div>
        
