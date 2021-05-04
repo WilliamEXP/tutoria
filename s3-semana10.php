@@ -29,13 +29,13 @@
                 <li>Identificar a los alumnos del grupo que tengan la capacidad de liderazgo.</li>
                 <li>Formar los equipos con al menos un alumno con capacidad de liderazgo.</li>
                 <li>Presentará a los tutorados las características principales de un mapa mental.</li>
-                <li>Presentar ejemplos de mapas mentales bien hechos y mal hechos (disponible en el material de apoyo).</li>
+                <li>Presentar ejemplos de <a href="https://drive.google.com/file/d/1auWkOO_tGH9hYnivXZcr3KcnprkEroaq/view?usp=sharing">mapas mentales bien hechos</a> y <a href="https://drive.google.com/file/d/1SJJZAR8lwDxwzw8PBfTmZPO_lP6dhJBW/view?usp=sharing">mal hechos</a> (disponible en el material de apoyo).</li>
                 <li>Mostrar el uso de programas en línea para el diseño de mapa mental como <a href="http://www.canva.com">www.canva.com</a> y <a href="http://www.lucidchart.com">www.lucidchart.com</a></li>
                 <li>Asignar los temas a trabajar, diferentes para cada equipo. Supervisar que los equipos estén trabajando en la elaboración del mapa mental.</li>
                 <li>Elegir algunos mapas mentales para que se presente al grupo y se hagan las retroalimentaciones de los mismos.</li>
                 <li>Retroalimentar a cada una de los mapas.</li>
             </ol>
-            <p> <strong><U>Nota:</U></strong> El Tutor puede apoyarse del videos Disponibles en el Material.</p>
+            <p> <strong><U>Nota:</U></strong> El Tutor puede apoyarse del <a href="https://drive.google.com/file/d/1pgUM-rlQSqfqs4hVvi9gvm22J63iDz2Z/view?usp=sharing">video</a> Disponible en el Material.</p>
         </div>
 
         <a href="s3-semana9.php" class="atras"><</a>

@@ -29,13 +29,13 @@
                 <li>Identificar a los alumnos del grupo que tengan la capacidad de liderazgo.</li>
                 <li>Formar los equipos con al menos un alumno con capacidad de liderazgo.</li>
                 <li>Presentará a los tutorados las características principales de un mapa conceptual.</li>
-                <li>Presentar ejemplos de mapas conceptual bien hecho y mal hecho (disponibles en el material de apoyo).</li>
+                <li>Presentar ejemplos de <a href="https://drive.google.com/file/d/1Sopyr2WhC6F9-tKMJPhmoWasbucMP4Af/view?usp=sharing">mapas conceptual bien hecho</a> y <a href="https://drive.google.com/file/d/1ZxaDrFWHjaICq6rJvQzq2_lL70S1qLCO/view?usp=sharing">mal hecho</a> (disponibles en el material de apoyo).</li>
                 <li>Mostrar el uso de programas en línea para el diseño de mapas conceptuales como <a href="http://www.canva.com">www.canva.com</a> y <a href="http://www.lucidchart.com">www.lucidchart.com</a> </li>
                 <li>Asignar los temas a trabajar. Supervisar que los equipos estén trabajando en la elaboración del mapa conceptual.</li>
                 <li>Elegir algunos mapas conceptuales para que se presente al grupo y se hagan las retroalimentaciones de los mismos.</li>
                 <li>Dar una retroalimentación a cada una de los mapas conceptuales.</li>
             </ol>
-            <p> <strong><U>Nota:</U></strong> El Tutor puede apoyarse del video. Disponible en Material.</p>
+            <p> <strong><U>Nota:</U></strong> El Tutor puede apoyarse del <a href="https://drive.google.com/file/d/13W7cu0taq5tKcESN_3wmFchz4LqNEOj9/view?usp=sharing">video</a>. Disponible en Material.</p>
         </div>
 
         <a href="s3-semana7.php" class="atras"><</a>

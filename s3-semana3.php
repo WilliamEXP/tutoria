@@ -26,7 +26,7 @@
             <h3>Pasos a seguir:</h3>
 
             <ol>
-                <li>El Tutor presentará el video “Correo electrónico: Escribir un mensaje correctamente” disponible en el material.</li>
+                <li>El Tutor presentará el video <a href="https://drive.google.com/file/d/1Y1ZCCZBx-wTJrLl0-b--GdIEe333EuJ7/view?usp=sharing">“Correo electrónico: Escribir un mensaje correctamente”</a> disponible en el material.</li>
                 <li>El Tutor reforzará el video haciendo énfasis en la importancia del uso correcto de los elementos de un correo electrónico: Destinatario, CC, CCO, asunto, contenido, archivos adjuntos, firma de correo; enviará un correo a cada uno de los alumnos como muestra.</li>
                 <li>El Tutor pide a los alumnos que envíen un correo electrónico, con un archivo adjunto, con asunto especificado y contenido.</li>
             </ol>

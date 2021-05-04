@@ -29,13 +29,13 @@
                 <li>Identificar a los alumnos del grupo que tengan la capacidad de liderazgo.</li>
                 <li>Formar los equipos con al menos un alumno con capacidad de liderazgo.</li>
                 <li>Presentará a los tutorados las características principales de un cuadro sinóptico.</li>
-                <li>Presentar ejemplos de un cuadro sinóptico bien hechos y mal hechos (disponible en el material de apoyo).</li>
+                <li>Presentar ejemplos de un <a href="https://drive.google.com/file/d/11o-tONKxFwtT5kvuNJmwJy1UEgGF-Zxp/view?usp=sharing">cuadro sinóptico bien hechos</a> y mal hechos (disponible en el material de apoyo).</li>
                 <li>Mostrar el uso de programas en línea para el diseño de un cuadro sinóptico como <a href="http://www.powtoon.com">www.powtoon.com</a> y <a href="http://www.lucidchart.com">www.lucidchart.com</a></li>
                 <li>Asignar los temas a trabajar. Supervisar que los equipos estén trabajando en la elaboración del cuadro sinóptico.</li>
                 <li>Elegir algún cuadro sinóptico para que se presente al grupo y se hagan las retroalimentaciones de los mismos.</li>
                 <li>Dar una retroalimentación a cada una de los cuadros sinópticos.</li>
             </ol>
-            <p> <strong><U>Nota:</U></strong> El tutor puede apoyarse de videos disponible en material.</p>
+            <p> <strong><U>Nota:</U></strong> El tutor puede apoyarse del <a href="https://drive.google.com/file/d/1wBQ1snIWC2JRwabpPvfZGeKhoA3qDxkn/view?usp=sharing">videos</a> disponible en material.</p>
         </div>
 
         <a href="s3-semana10.php" class="atras"><</a>
