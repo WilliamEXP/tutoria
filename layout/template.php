@@ -13,13 +13,13 @@
     <div class="container" >
         <div class="menu active">
         
-        <h3 class = "txt-center">Índice</h3>
+        <h3>Índice</h3>
         <li><a href="index.php" id = "index">Directorio</a></li>
         <li><a href="introduccion.php" id = "introduccion">Introducción</a></li>
     
         <li><a href="operacion.html">Operación del programa</a></li>
-        <li ><a href = "aspectos.html" class="sub">Aspectos fundamentales de operación</a></li>
-        <li><a href="tuto_gru.html" class="sub">Tutoria grupal</a></li>
+        <li class="sub"><a href = "aspectos.html">Aspectos fundamentales de operación</a></li>
+        <li class="sub"><a href="tuto_gru.html">Tutoria grupal</a></li>
         <li class="sub"><a href="tuto_indi.html">Tutoría individual</a></li>
         <li class="sub"><a href="comite.html">Comité de Tutorías</a></li>
         <li class="sub"><a href="contexto.html">Contexto y operación de la evaluación</a></li>
