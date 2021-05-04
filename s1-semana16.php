@@ -37,7 +37,7 @@
 
         <a href="s1-semana15.php" class="atras"><</a>
 
-        <a href="index.php" class="siguiente">Inicio</a>
+        <a href="index.php" class="siguiente">></a>
 
     </div>
 </body>
