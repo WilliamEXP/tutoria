@@ -29,8 +29,7 @@
 
             <ol type = "1">
                 <li>El Tutor proyecta la presentación 
-                “Funcionamiento del Tec Parte II” disponible en
-                el material con el objeto de conocer los
+                <a href="https://drive.google.com/file/d/15nAgWyxA0dgOSFSt91gk9sr_EguUMa_l/view?usp=sharing">Funcionamiento del Tec Parte II</a> con el objeto de conocer los
                 departamentos y áreas con los que tendrá
                 contacto el estudiante para solicitar diferentes 
                 servicios y sus respectivos responsables.</li>

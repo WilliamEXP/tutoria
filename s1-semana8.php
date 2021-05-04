@@ -31,7 +31,7 @@
 
             <ol type = "1">
                 <li>	El Tutor presentará ante los alumnos las
-                preguntas fundamentales de cada elemento
+                <a href="https://drive.google.com/file/d/1wG_RXKSBNuvpd2ll-qZx_hu4-7HAxDSa/view?usp=sharing">Preguntas fundamentales</a> de cada elemento
                 que compone el análisis FODA y solicita que las
                 conteste.</li>
                 <p>Fortalezas</p>
@@ -92,8 +92,8 @@
                     <li>¿Qué haría en el próximo capítulo de su vida 
                     si no tuviera miedo?</li>
                 </ol>
-                <li>El Tutor solicita que llene el Formato FODA
-                disponible en el material con las 4 principales 
+                <li>El Tutor solicita que llene el <a href="https://drive.google.com/file/d/1wG_RXKSBNuvpd2ll-qZx_hu4-7HAxDSa/view?usp=sharing">Formato FODA</a>
+                con las 4 principales 
                 Fortalezas, debilidades, Amenazas y
                 Oportunidades. </li>
                 <h1>Análisis FODA personal.</h1>

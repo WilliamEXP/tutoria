@@ -29,8 +29,7 @@
 
             <ol type = "1">
                 <li>El Tutor presentará ante los alumnos un 
-                ejemplo de la línea de la vida disponible en el
-                 material. 
+                ejemplo de la <a href="https://drive.google.com/file/d/1lGSzrBEOHf_G4Cq66JSEBxT5Pl7W8ra1/view?usp=sharing">Línea de la vida</a>.
                 </li>
 
                 <img src="img/linea-vida.png" class="img">

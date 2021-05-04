@@ -31,8 +31,8 @@
 
             <ul>
                 <li>1.	El Tutor proyectará ante el grupo el video 
-                “Diferencias entre la preparatoria y la
-                universidad” disponible en el material.</li>
+                <a href="https://drive.google.com/file/d/1ejTxJnCwId0FuJ8RszOVO-ggAg5z8WQo/view?usp=sharing">Diferencias entre la preparatoria y la
+                universidad</a></li>
                 <li>2.	Mediante lluvia de ideas, el tutor deberá
                 preguntar hábitos y disciplina que deberá
                 seguir de un estudiante exitoso.</li>
