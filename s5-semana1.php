@@ -13,12 +13,11 @@
 </head>
 
 <body>
-    
-    <?php include('layout/semestre4.php'); ?>
+    <?php include('layout/semestre5.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
-            <h2>Semana 14 | EVALUACIÓN DE LOS TUTORADOS</h2>
+            <h2>Semana 1 | PRESENTACIÓN / FOTO GRUPAL</h2>
 
             <h3>Descripción</h3>
             <p>Introducción del Programa Institucional de Tutoría (PIT) del semestre y organización de la foto grupal con el Tutor.</p>
@@ -26,15 +25,14 @@
             <h3>Pasos a seguir:</h3>
 
             <ol>
-                <li>El Tutor recaba las evidencias de los tutorados relacionadas con el desarrollo de las habilidades establecidas en el formato de evaluación al desempeño de la actividad complementaria y llena el formato correspondiente.</li>
-                <li>El Tutor llena el formato de tutoría individual correspondiente, con la firma del tutorado.</li>
+                <li>El Tutor presentará ante el grupo las actividades a realizarse durante el semestre como parte de su formación integral.</li>
+                <li>El Tutor les indicará los principales elementos a considerar sobre el desarrollo de las actividades del semestre.</li>
+                <li>Se discutirán fechas probables para la foto grupal y se organizarán las locaciones y la vestimenta apropiada para la actividad.</li>
             </ol>
-
-            <p><b><u>NOTA: </u></b>Para el desarrollo de las actividades de la semana 15 UN DÍA POR MI TEC, el tutor deberá definir con su Jefatura de Carrera las necesidades, insumos, implementos de trabajo y seguridad necesarios para llevarlas a cabo.</p>
         </div>
 
-        <a href="s4-semana13.php" class="atras"><</a>
-        <a href="s4-semana15.php" class="siguiente">></a>
+        <a href="tabla-semestre5.php" class="atras"><</a>
+        <a href="s5-semana2.php" class="siguiente">></a>
     </div>
 </body>
 
