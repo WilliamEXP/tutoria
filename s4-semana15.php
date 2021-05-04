@@ -14,7 +14,7 @@
 
 <body>
     
-    <?php include('layout/template.php'); ?>
+    <?php include('layout/semestre4.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
@@ -24,14 +24,14 @@
             <p>Introducción del Programa Institucional de Tutoría (PIT) del semestre y organización de la foto grupal con el Tutor.</p>
             <h3>Pasos a seguir:</h3>
 
-            <ul>
+            <ol>
                 <li>El Tutor recaba las evidencias de los tutorados relacionadas con el desarrollo de las habilidades establecidas en el formato de evaluación al desempeño de la actividad complementaria y llena el formato correspondiente.</li>
-            </ul>
+            </ol>
 
         </div>
 
-        <a href="s3-semana14.php" class="atras"><</a>
-        <a href="s3-semana16.php" class="siguiente">></a>
+        <a href="s4-semana14.php" class="atras"><</a>
+        <a href="s4-semana16.php" class="siguiente">></a>
     </div>
 </body>
 

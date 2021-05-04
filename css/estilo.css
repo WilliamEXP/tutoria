@@ -147,6 +147,11 @@ p, li
 }
 
 
+
+.lista-incisos li {
+    color: #1e007a;
+    list-style-type: lower-alpha;
+}
 /*--------------Tablas-------------------*/
 .tabla {
     width: 70%;

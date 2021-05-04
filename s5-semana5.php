@@ -13,25 +13,21 @@
 </head>
 
 <body>
-    
-    <?php include('layout/semestre4.php'); ?>
+    <?php include('layout/semestre5.php'); ?>
 
     <div class="main">
         <div class="text txt-justify">
-            <h2>Semana 16 | AVANCE ESCOLAR</h2>
+            <h2>Semana 5 | AVANCE ESCOLAR</h2>
 
             <h3>Descripción</h3>
-            <p>Identificar el avance escolar de los tutorados y detalles importantes de su situación académica.</p>
+            <p>Identificar el avance escolar de los tutorados y detalles importantes de su situación académica.</p>            
             <h3>Pasos a seguir:</h3>
 
-            <ol>
-                <li>Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan importantes señales de bajo rendimiento, asistencia o comportamiento inadecuado con las notas correspondientes.</li>
-            </ol>
-
+            <p>Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan importantes señales de bajo rendimiento, asistencia o comportamiento inadecuado con las notas correspondientes.</p>
         </div>
 
-        <a href="s3-semana15.php" class="atras"><</a>
-        <a href="tabla-semestre5.php" class="siguiente">></a>
+        <a href="s5-semana4.php" class="atras"><</a>
+        <a href="s5-semana6.php" class="siguiente">></a>
     </div>
 </body>
 
