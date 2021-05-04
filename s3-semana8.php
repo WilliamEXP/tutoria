@@ -25,7 +25,7 @@
 
             <h3>Pasos a seguir:</h3>
             <P>El Tutor deberá:</P>
-            <ul>
+            <ol>
                 <li>Identificar a los alumnos del grupo que tengan la capacidad de liderazgo.</li>
                 <li>Formar los equipos con al menos un alumno con capacidad de liderazgo.</li>
                 <li>Presentará a los tutorados las características principales de un mapa conceptual.</li>
@@ -34,7 +34,7 @@
                 <li>Asignar los temas a trabajar. Supervisar que los equipos estén trabajando en la elaboración del mapa conceptual.</li>
                 <li>Elegir algunos mapas conceptuales para que se presente al grupo y se hagan las retroalimentaciones de los mismos.</li>
                 <li>Dar una retroalimentación a cada una de los mapas conceptuales.</li>
-            </ul>
+            </ol>
             <p> <strong><U>Nota:</U></strong> El Tutor puede apoyarse del video. Disponible en Material.</p>
         </div>
 

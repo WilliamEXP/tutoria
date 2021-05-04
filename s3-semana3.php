@@ -17,7 +17,7 @@
 
     <div class="main">
         <div class="text txt-justify">
-    
+            
             <h2>Semana 3 | REDACCÓN DE UN CORREO ELECTRÓNICO</h2>
 
             <h3>Descripción</h3>
