@@ -32,7 +32,7 @@
         </div>
 
         <a href="s8-semana10.php" class="atras"><</a>
-        <a href="operacion12.php" class="siguiente">></a>
+        <a href="s8-semana12.php" class="siguiente">></a>
     </div>
 </body>
 
