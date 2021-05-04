@@ -42,7 +42,7 @@
 	</ol>
 
 	<a href="s7-semana2.php" class ="atras"><</a>
-	<a href="s7-semana4.php.php" class ="siguiente">></a>
+	<a href="s7-semana4.php" class ="siguiente">></a>
       </div>
   </div>
 
