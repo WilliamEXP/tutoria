@@ -23,7 +23,7 @@
 
             <h3>Descripción</h3>
             <p>Presentación de los principales servicios y 
-            departamentos dentro de la institución</p>
+            departamentos dentro de la institución.</p>
 
             <h3>Pasos a seguir:</h3>
 

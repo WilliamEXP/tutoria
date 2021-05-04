@@ -19,7 +19,7 @@
     <div class="main">
         <div class="text txt-justify">
 
-            <h2>Semana 3 | FUNCIONAMIENTO DEL ITSMOTUL (parte II)</h2>
+            <h2>Semana 3 | FUNCIONAMIENTO DEL ITSMOTUL (Parte II)</h2>
 
             <h3>Descripción</h3>
             <p>Presentación de las actividades complementarias y 
@@ -28,7 +28,7 @@
             <h3>Pasos a seguir:</h3>
 
             <ol type = "1">
-                <li>1.	El Tutor proyecta la presentación 
+                <li>El Tutor proyecta la presentación 
                 “Funcionamiento del Tec Parte II” disponible en
                 el material con el objeto de conocer los
                 departamentos y áreas con los que tendrá

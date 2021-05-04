@@ -50,7 +50,7 @@
           los Tutorados, así como del Jefe de Carrera del Programa Educativo.
         </p>
 
-        <h3>Responsablilidades</h3>
+        <h3>Responsabilidades</h3>
         <p>
           De acuerdo a las directrices emitidas por el Comité Académico de la
           institución (ITSM, 2013), los Tutores tendrán las siguientes

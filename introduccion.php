@@ -17,7 +17,7 @@
   
 <div class="main">
     <div class = "text txt-justify">
-    <h1>Introduccion</h1>
+    <h1>Introducción</h1>
         
         <p>La tutoría es un proceso de acompañamiento grupal o individual que un tutor brinda al estudiante durante su estancia en el Instituto, con el propósito de contribuir a su formación integral e incidir en las metas institucionales relacionadas con la calidad educativa a través de acciones para elevar los índices de eficiencia terminal, reducir los índices de reprobación y deserción (TecNM, 2015).</p>
 

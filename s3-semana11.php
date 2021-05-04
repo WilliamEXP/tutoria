@@ -17,7 +17,6 @@
 
     <div class="main">
         <div class="text txt-justify">
-            <h1>Semestre 3</h1>
 
             <h2>Semana 11 | ELABORACIÓN DE CUADROS SINÓPTICOS</h2>
 

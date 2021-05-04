@@ -44,11 +44,11 @@
                     momentos? Identifica cuáles son tus 
                     mayores talentos. Estos pueden ser 
                     habilidades o competencias.</li>
-                    <li>	¿Qué es lo que la gente más admira de
+                    <li>¿Qué es lo que la gente más admira de
                     usted? Éstas son las cualidades y virtudes
                     personales particulares que aportas a las
                     relaciones.</li>
-                    <li>c)	¿Cuáles son sus activos más valiosos? Éstos 
+                    <li>¿Cuáles son sus activos más valiosos? Éstos 
                     pueden ser cosas intangibles, como 
                     experiencias de la vida y relaciones, o
                     también activos tangibles como bienes

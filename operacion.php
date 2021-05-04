@@ -22,8 +22,8 @@
     <h1 class="t_grande">OPERACIÓN DEL PROGRAMA</h1>
     
        
-    <a href="introduccion.html" class ="atras"><</a>
-    <a href="aspectos.html" class ="siguiente">></a>
+    <a href="introduccion.php" class ="atras"><</a>
+    <a href="aspectos.php" class ="siguiente">></a>
     </div>
 </div>
 

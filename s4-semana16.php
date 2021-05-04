@@ -30,8 +30,8 @@
 
         </div>
 
-        <a href="s3-semana15.php" class="atras"><</a>
-        <a href="tabla-semestre5.php" class="siguiente">></a>
+        <a href="s4-semana15.php" class="atras"><</a>
+        <a href="s5-semana1.php" class="siguiente">></a>
     </div>
 </body>
 
