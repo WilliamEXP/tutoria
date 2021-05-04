@@ -19,7 +19,13 @@
 				<span></span>
 				<span></span>
 			</a>
+            <a href="#" id="menu_on2">
+				<span></span>
+				<span></span>
+				<span></span>
+			</a>
 		</header>
+        
     <h3 class="titulo"> La Tutoría como estrategia para la formación integral</h3>  
   </div>
   
@@ -126,12 +132,20 @@ switch (window.location.pathname) {
     }
         </script>
         <script>
+                $( document ).ready(function() {
+                    $('#menu_on').click(function(){
+    	            $('body').toggleClass('ver');
+                    $('.menu').toggleClass('ver');
+                    })
+                });
+        </script>
+        <script>
             $( document ).ready(function() {
-    $('#menu_on').click(function(){
-    	$('body').toggleClass('ver');
-        $('.menu').toggleClass('ver');
-    })
-});
+                $('#menu_on2').click(function(){
+    	        $('body').toggleClass('ver2');
+                $('.menu').toggleClass('ver2');
+                 })
+            });
         </script>
 </body>
 </html>

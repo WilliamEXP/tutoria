@@ -9,7 +9,7 @@ body {
 .container {
   display: flex;
   width: 100%;
-  margin-top: 45px;
+  margin-top: 15px;
 }
 
 /* ---------------- menu ------------------------- */
@@ -223,7 +223,70 @@ li {
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
   transform: translateY(-7px);
 }
+
+
+/* ocultar menu */
+/* #menu_on2 {
+  display: block;
+  width: 30px;
+  height: 20px;
+  position: relative;
+  z-index: 2;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#menu_on2 span {
+  width: 100%;
+  height: 4px;
+  border-radius: 4px;
+  display: block;
+  position: absolute;
+  background: #fff;
+  transition: all 0.25s ease;
+  transform-origin: 0px 100%;
+}
+
+#menu_on2 span:nth-child(2) {
+  top: calc(50% - 2px);
+}
+
+#menu_on2 span:nth-child(3) {
+  bottom: 0;
+}
+.ver2 span:nth-child(1) {
+  transform: rotate(45deg) translate(-2px, 1px);
+}
+
+.ver2 span:nth-child(2) {
+  opacity: 0;
+}
+
+.ver2 span:nth-child(3) {
+  transform: rotate(-45deg) translate(-3px, 3px);
+}
+.ver2 {
+  display: block;
+  transition: all 0.25s ease;
+}
+.ver2 .menu {
+  width: 300px;
+  padding: auto;
+  transition: all 0.25s ease;
+  display: none;
+}
+
+.ver2 .main {
+  transform: translateX(-25px);
+  transition: all 0.25s ease;
+} */
+
 /* ---------------------------- resposividad -------------------------- */
+
+
+
+
+
 @media only screen and (max-width: 900px) {
   .container {
     margin-top: 15px;
@@ -271,7 +334,7 @@ li {
     display: block;
     position: absolute;
   }
-
+ /* Menu responsivo */
   #menu_on {
     display: block;
     width: 30px;
@@ -324,6 +387,9 @@ li {
   .ver .main {
     transform: translateX(50px);
   }
+  .ver2 {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -346,7 +412,11 @@ li {
     font-size: 18px;
   }
 }
+
+
 /* ----------------------------- formato para impresion ---------------------------- */
+
+
 @media print {
   .atras,
   .siguiente,
