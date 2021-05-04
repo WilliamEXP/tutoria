@@ -13,58 +13,23 @@
 
 </head>
 <body>
-<div class="titulo"><h2>OPERACIÓN DEL PROGRAMA</h2></div>
-
-<div>
-        
-    <ul class="indice">
-    <div class="centrar"><h3>Índice</h3></div>
-    <li><a href="index.html" >Directorio</a></li>
-    <li><a href="introduccion.html" >Introducción</a></li>
-
-    <li><a href="operacion.html">Operación del programa</a></li>
-    <li class="sub"><a href = "aspectos.html">Aspectos fundamentales de operación</a></li>
-    <li class="sub"><a href="tuto_gru.html">Tutoria grupal</a></li>
-    <li class="sub"><a href="tuto_indi.html"class = "active">Tutoría individual</a></li>
-    <li class="sub"><a href="comite.html">Comité de Tutorías</a></li>
-    <li class="sub"><a href="contexto.html">Contexto y operación de la evaluación</a></li>
-    
-    <li><a href="definiciones.html">Definiciones Operacionales</a></li>
-    <li class="sub"><a href="definicion.html">Definición de Conceptos</a></li>
-
-    <li><a href="instrumentos.html">Instrumentos Para La Operación Del Programa</a></li>
-    <li class="sub"><a href="formato.html">Formato de Trabajo</a></li>
-
-    <li><a href="guia.html">Guia Para el Tutor</a></li>
-    <li class="sub"><a href="sesion1.html">Semestre 1</a></li>
-   
-    
-        </ul>
-        
-    </div>
-
+<?php include('layout/template.php'); ?>
   
-<div class="hoja">
-    <div class = "centro">
+<div class="main">
+    <div class = "text txt-justify">
     <h2>Tutría Individual</h2>
-   
-    
-    
     
         <p>Se realiza cuando el Tutor detecta estudiantes en situaciones especiales, de riesgo escolar o cuando el mismo alumno así lo solicite. El objetivo principal es el de orientar y apoyar al estudiante en los problemas escolares o personales que surjan durante el proceso formativo como dificultades en el aprendizaje, relaciones maestro-alumno, relaciones entre alumnos y, en caso de requerirlo, canalizarlo a instancias especializadas para su atención.</p>
 
-
-        
-        
         <p>Al término de cada parcial el Tutor recabará información académica, lo que le permitirá detectar casos de riesgo. El Tutor deberá brindar Tutoría individual, citando a los alumnos para conocer las causas y hacer un correcto diagnóstico de la situación (véase la Figura 5). Es posible que el diagnóstico arroje evidencia que concuerde con otros alumnos, y que en conjunto lleven a la conclusión de que es necesario proporcionar asesoría académica a uno o un grupo de estudiantes. El Tutor deberá comunicarlo a la Jefatura de Carrera correspondiente y al Coordinador del Programa de Tutoría e iniciar el trámite de solicitud formal. La idea es gestionar los recursos y obtener la ayuda académica que evite que los estudiantes fracasen en la asignatura.</p>
         <img src="img/Picture4.png" class="img">
-        <i><p class="centrar">Figura 5. Proceso de Tutoría Individual.</p></i>
+        <p class="pie">Figura 5. Proceso de Tutoría Individual.</p>
         <br>
 
 <p>En el caso de que las inasistencias revelen riesgo de deserción o exista evidencia, por mínima que sea, de un impacto negativo en el rendimiento escolar del alumno, el Tutor deberá reportarlo a la Jefatura de Carrera del Programa Educativo o a la Coordinador del Programa Institucional de Tutoría o en ambos e implementar una estrategia para solventar ese riesgo. Al término de cada período parcial y al término del semestre, el Tutor deberá emitir los reportes que sean necesarios para mantener actualizado el expediente escolar del estudiante y para mantener un registro de su productividad como Tutor. </p>
        
-    <a href="tuto_gru.html" class ="atras"><</a>
-    <a href="comite.html" class ="siguiente">></a>
+    <a href="tuto_gru.php" class ="atras"><</a>
+    <a href="comite.php" class ="siguiente">></a>
     </div>
 </div>
 

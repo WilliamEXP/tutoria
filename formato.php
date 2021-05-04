@@ -13,48 +13,18 @@
 
 </head>
 <body>
-<div class="titulo"><h2>DEFINICIONES OPERACIONALES</h2></div>
+    <?php include('layout/template.php'); ?>
+<div class="main">
+    <div class = "text txt-justify">
 
-<div>
-        
-    <ul class="indice">
-    <div class="centrar"><h3>Índice</h3></div>
-    <li><a href="index.html" >Directorio</a></li>
-    <li><a href="introduccion.html" >Introducción</a></li>
-
-    <li><a href="operacion.html" > Operación del programa</a></li>
-    <li class="sub"><a href = "aspectos.html">Aspectos fundamentales de operación</a></li>
-    <li class="sub"><a href="tuto_gru.html">Tutoria grupal</a></li>
-    <li class="sub"><a href="tuto_indi.html">Tutoría individual</a></li>
-    <li class="sub"><a href="comite.html">Comité de Tutorías</a></li>
-    <li class="sub"><a href="contexto.html">Contexto y operación de la evaluación</a></li>
-    
-    <li><a href="definiciones.html" >Definiciones Operacionales</a></li>
-    <li class="sub"><a href="definicion.html">Definición de Conceptos</a></li>
-
-    <li><a href="instrumentos.html" >Instrumentos Para La Operación Del Programa</a></li>
-    <li class="sub"><a href="formato.html"class = "active">Formato de Trabajo</a></li>
-
-    <li><a href="guia.html">Guia Para el Tutor</a></li>
-    <li class="sub"><a href="sesion1.html">Semestre 1</a></li>
-   
-    
-        </ul>
-        
-    </div>
-
-  
-<div class="hoja">
-    <div class = "centro">
-
-    <h1>Formatos de Trabajo</h1>
+    <h2>Formatos de Trabajo</h2>
     <p>El comité de Tutorías ha diseñado diversos instrumentos orientados a registrar la evidencia indispensable para medir el progreso de la acción tutorial, así como evaluarla y tomar decisiones pertinentes. En la plataforma de tutorías se encuentran a disposición los formatos vacíos y con ejemplos para ilustrar mejor su empleo. Los formatos incluidos son el de: Tutoría individual, Tutoría grupal, de seguimiento, informe semestral de Tutoría, solicitud de asesorías, reporte de asesoría.</p>
         <p>
         El formato de Tutoría individual permite registrar las entrevistas que derivan de la Tutoría personalizada y es un instrumento valioso como una memoria histórica que se incluye en el expediente del alumno con la finalidad de incorporarlo a la evidencia de su trayectoria escolar.</p>
     
        
-    <a href="instrumentos.html" class ="atras"><</a>
-    <a href="guia.html" class ="siguiente">></a>
+    <a href="instrumentos.php" class ="atras"><</a>
+    <a href="guia.php" class ="siguiente">></a>
     </div>
 </div>
 

@@ -105,10 +105,13 @@ li {
   text-align: justify;
 }
 .t_grande {
-  padding: 25% 0px;
+  
   font-family: "Noto Sans JP", sans-serif;
   text-align: center;
   font-size: 50px;
+  margin-top: 25%;
+  line-height: 1.3px;
+  line-height: 100px;
 }
 
 /* ---------------------------- atributos imagen -------------------------- */

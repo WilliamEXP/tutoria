@@ -13,44 +13,10 @@
 
 </head>
 <body>
-<div class="titulo"><h2>OPERACIÓN DEL PROGRAMA</h2></div>
-
-<div>
-        
-    <ul class="indice">
-    <div class="centrar"><h3>Índice</h3></div>
-    <li><a href="index.html" >Directorio</a></li>
-    <li><a href="introduccion.html" >Introducción</a></li>
-
-    <li><a href="operacion.html">Operación del programa</a></li>
-    <li class="sub"><a href = "aspectos.html">Aspectos fundamentales de operación</a></li>
-    <li class="sub"><a href="tuto_gru.html">Tutoria grupal</a></li>
-    <li class="sub"><a href="tuto_indi.html">Tutoría individual</a></li>
-    <li class="sub"><a href="comite.html">Comité de Tutorías</a></li>
-    <li class="sub"><a href="contexto.html" class = "active">Contexto y operación de la evaluación</a></li>
-    
-    <li><a href="definiciones.html">Definiciones Operacionales</a></li>
-    <li class="sub"><a href="definicion.html">Definición de Conceptos</a></li>
-
-    <li><a href="instrumentos.html">Instrumentos Para La Operación Del Programa</a></li>
-    <li class="sub"><a href="formato.html">Formato de Trabajo</a></li>
-
-    <li><a href="guia.html">Guia Para el Tutor</a></li>
-    <li class="sub"><a href="sesion1.html">Semestre 1</a></li>
-   
-    
-        </ul>
-        
-    </div>
-
-  
-<div class="hoja">
-    <div class = "centro">
+    <?php include('layout/template.php'); ?>
+<div class="main">
+    <div class = "text txt-justify">
     <h2>Contexto y Operación de la Evaluación</h2>
-   
-    
-    
-    
         <p>La Evaluación es un proceso sistemático, diseñado intencional y técnicamente, de obtención de datos valiosa, válida y fiable, orientado a valorar la calidad y los logros de un programa o sistema como base para la posterior toma de decisiones de mejora, tanto del programa como del personal implicado en el mismo” (García Hoz, 1994, pág. 513). Además, es un proceso permanente porque se debe realizar de manera continua.</p>      
         
         <p>De acuerdo al Instituto Tecnológico Nacional de México (2015), la evaluación de las competencias es un proceso integral, permanente, sistemático y objetivo, en el que son responsables el estudiante y el tutor para valorar la medida en que se han alcanzado las competencias establecidas en la tutoría. Debe considerar los diferentes tipos y formas de la evaluación y una diversidad de instrumentos, de tal manera que los corresponsables del proceso puedan tomar decisiones oportunas en busca de una mejora permanente </p>
@@ -74,8 +40,8 @@
             <p>b) Proporcionar a los estudiantes un modo de expresión de su grado de satisfacción con la docencia, con la acción Tutorial y con la Institución.</p>
             
        
-    <a href="comite.html" class ="atras"><</a>
-    <a href="definiciones.html" class ="siguiente">></a>
+    <a href="comite.php" class ="atras"><</a>
+    <a href="definiciones.php" class ="siguiente">></a>
     </div>
 </div>
 

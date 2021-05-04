@@ -13,42 +13,12 @@
 
 </head>
 <body>
-<div class="titulo"><h2>OPERACIÓN DEL PROGRAMA</h2></div>
-
-<div>
-        
-    <ul class="indice">
-    <div class="centrar"><h3>Índice</h3></div>
-    <li><a href="index.html" >Directorio</a></li>
-    <li><a href="introduccion.html" >Introducción</a></li>
-
-    <li><a href="operacion.html" > Operación del programa</a></li>
-    <li class="sub"><a href = "aspectos.html" class = "active">Aspectos fundamentales de operación</a></li>
-    <li class="sub"><a href="tuto_gru.html">Tutoria grupal</a></li>
-    <li class="sub"><a href="tuto_indi.html">Tutoría individual</a></li>
-    
-    <li class="sub"><a href="comite.html">Comité de Tutorías</a></li>
-    <li class="sub"><a href="contexto.html">Contexto y operación de la evaluación</a></li>
-    
-    <li><a href="definiciones.html">Definiciones Operacionales</a></li>
-    <li class="sub"><a href="definicion.html">Definición de Conceptos</a></li>
-
-    <li><a href="instrumentos.html">Instrumentos Para La Operación Del Programa</a></li>
-    <li class="sub"><a href="formato.html">Formato de Trabajo</a></li>
-
-    <li><a href="guia.html">Guia Para el Tutor</a></li>
-    <li class="sub"><a href="sesion1.html">Semestre 1</a></li>
-   
-    
-        </ul>
-        
-    </div>
-
+    <?php include('layout/template.php'); ?>
   
-<div class="hoja">
-    <div class = "centro">
+<div class="main">
+    <div class = "text tct-justify">
    
-    <h2 class="centrar">Aspectos fundamentales de operación</h2>
+    <h2>Aspectos fundamentales de operación</h2>
     
     
     
@@ -57,7 +27,7 @@
 
         
         <img src="img/Picture1.png" class="img">
-        <i><p class="centrar">Figura 2. Funcionamiento del Programa Institucional de Tutorías</p></i>
+        <p class="pie">Figura 2. Funcionamiento del Programa Institucional de Tutorías</p>
         <br>
         <p>El proceso inicia con la obtención y análisis de los resultados del EXANI y de los cursos de nivelación para determinar el estado académico de los estudiantes de nuevo ingreso. De igual manera se contempla la asignación de tutorados para tener control de los estudiantes asignados.</p>
    
@@ -68,14 +38,14 @@
         <p>En la Figura 3 se presenta el diagrama de flujo que describe las principales actividades del Tutor en el que se puede apreciar como en una sesión presencial da seguimiento de sus Tutorados y monitorea tanto su rendimiento académico como detecta posibles estudiantes que pudieran desertar y como estas actividades se plasman en los diferentes formatos.</p>
 
         <img class="img" src="img/Picture2.png">
-        <i><p class="centrar">Figura 3. Proceso general de la tutoría.</p></i>
+        <p class="pie">Figura 3. Proceso general de la tutoría.</p>
         <br>
 
         <p>A continuación se describen cada una de los elementos de la tutoría grupal e individual que se requieren para el desarrollo de actividades.</p>
 
        
-    <a href="operacion.html" class ="atras"><</a>
-    <a href="tuto_gru.html" class ="siguiente">></a>
+    <a href="operacion.php" class ="atras"><</a>
+    <a href="tuto_gru.php" class ="siguiente">></a>
     </div>
 </div>
 
