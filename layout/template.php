@@ -8,11 +8,23 @@
     <title>Document</title>
 </head>
 <body>
-
-    <h3 class="titulo">La Tutoría como estrategia para la formación integral</h3>  
+<script
+  src="http://code.jquery.com/jquery-3.2.1.slim.min.js"
+  integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+  crossorigin="anonymous"></script>
+  <div>
+  <header id="#header">
+			<a href="#" id="menu_on">
+				<span></span>
+				<span></span>
+				<span></span>
+			</a>
+		</header>
+    <h3 class="titulo"> La Tutoría como estrategia para la formación integral</h3>  
+  </div>
+  
     <div class="container" >
-        <div class="menu active">
-        
+        <div class="menu">
         <h3 class = "txt-center">Índice</h3>
         <li><a href="index.php" id = "index">Directorio</a></li>
         <li><a href="introduccion.php" id = "introduccion">Introducción</a></li>
@@ -112,6 +124,14 @@ switch (window.location.pathname) {
                                 
     break;
     }
+        </script>
+        <script>
+            $( document ).ready(function() {
+    $('#menu_on').click(function(){
+    	$('body').toggleClass('ver');
+        $('.menu').toggleClass('ver');
+    })
+});
         </script>
 </body>
 </html>

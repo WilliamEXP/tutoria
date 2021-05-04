@@ -21,7 +21,8 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   text-decoration: none;
-  padding-right: 5px;
+  padding: 0px 5px 10px 0;
+  transition: all 0.25s ease;
 }
 .menu li a {
   display: block;
@@ -40,6 +41,7 @@ body {
   background-color: #1e007a;
   color: #ffffff;
 }
+
 .sub {
   padding: 0px 20px;
 }
@@ -53,6 +55,7 @@ body {
   color: #333;
   height: auto;
   width: 60%;
+  transition: all 0.25s ease;
 }
 
 /* ----------------------- Titulo (de color morado) -------------------------------------- */
@@ -105,7 +108,6 @@ li {
   text-align: justify;
 }
 .t_grande {
-  
   font-family: "Noto Sans JP", sans-serif;
   text-align: center;
   font-size: 50px;
@@ -222,14 +224,30 @@ li {
   transform: translateY(-7px);
 }
 /* ---------------------------- resposividad -------------------------- */
-
-.active {
-  display: flow-root;
-}
-
 @media only screen and (max-width: 900px) {
+  .container {
+    margin-top: 15px;
+  }
   .menu {
     display: none;
+  }
+  h1 {
+    margin-top: 25px;
+    font-family: "Noto Sans JP", sans-serif;
+    text-align: center;
+  }
+  h2 {
+    margin-top: 35px;
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  h3 {
+    margin-top: 20px;
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  p,
+  li {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
   }
   .atras {
     font-size: 14px;
@@ -249,25 +267,94 @@ li {
     bottom: 20px;
     left: 20px;
   }
+  .titulo {
+    display: block;
+    position: absolute;
+  }
+
+  #menu_on {
+    display: block;
+    width: 30px;
+    height: 20px;
+    position: relative;
+    z-index: 2;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  #menu_on span {
+    width: 100%;
+    height: 4px;
+    border-radius: 4px;
+    display: block;
+    position: absolute;
+    background: #fff;
+    transition: all 0.25s ease;
+    transform-origin: 0px 100%;
+  }
+
+  #menu_on span:nth-child(2) {
+    top: calc(50% - 2px);
+  }
+
+  #menu_on span:nth-child(3) {
+    bottom: 0;
+  }
+  .ver span:nth-child(1) {
+    transform: rotate(45deg) translate(-2px, 1px);
+  }
+
+  .ver span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .ver span:nth-child(3) {
+    transform: rotate(-45deg) translate(-3px, 3px);
+  }
+  .ver {
+    display: block;
+    transition: all 0.25s ease;
+  }
+  .ver .menu {
+    width: 300px;
+    padding: auto;
+    transition: all 0.25s ease;
+  }
+
+  .ver .main {
+    transform: translateX(50px);
+  }
 }
 
 @media only screen and (max-width: 1200px) {
   .menu {
     width: 250px;
   }
+  p,
+  li {
+    font-family: "Lato", sans-serif;
+    font-size: 19px;
+  }
 }
 @media only screen and (max-width: 1000px) {
   .menu {
     width: 200px;
   }
+  p,
+  li {
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+  }
 }
-
+/* ----------------------------- formato para impresion ---------------------------- */
 @media print {
-  .atras, .siguiente, .menu, .titulo {
+  .atras,
+  .siguiente,
+  .menu,
+  .titulo {
     display: none;
   }
   .text {
-    
     margin-left: 60px;
     margin-right: 60px;
     line-height: 1.3px;
