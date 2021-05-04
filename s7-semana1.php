@@ -29,8 +29,8 @@
 	  <li>Se discutirán fechas probables para la foto grupal y se organizarán las locaciones y la vestimenta apropiada para la actividad.</li>
 	</ol>
 
-	<a href="index.php" class ="atras"><</a>
-	<a href="operacion.php" class ="siguiente">></a>
+	<a href="s6-semana16.php" class ="atras"><</a>
+	<a href="s7-semana2.php" class ="siguiente">></a>
       </div>
   </div>
 
