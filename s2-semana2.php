@@ -32,7 +32,7 @@
 
             <ol>
                 <li>
-                	Proyectar el video <a href=https://drive.google.com/file/d/1T8Zmvsq0a4zomwENRtOOureTZQjEn5xn/view?usp=sharing> la diferencia entre la preparatoria y la universidad.</a>
+                	Proyectar el video <a href=https://drive.google.com/file/d/1T8Zmvsq0a4zomwENRtOOureTZQjEn5xn/view?usp=sharing> Sexualidad responsable.</a>
                 </li>
                 <li>
                 	Entrega del artículo <a href=https://drive.google.com/file/d/13cWlq5ZtYqvGmwuTWGnmYdlY_RyPf7_z/view?usp=sharing> CONDUCTAS SEXUALES EN RIESGO</a>
