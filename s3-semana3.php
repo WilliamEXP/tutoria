@@ -17,8 +17,7 @@
 
     <div class="main">
         <div class="text txt-justify">
-            <h1>Semestre 3</h1>
-
+    
             <h2>Semana 3 | REDACCÓN DE UN CORREO ELECTRÓNICO</h2>
 
             <h3>Descripción</h3>
@@ -26,11 +25,11 @@
 
             <h3>Pasos a seguir:</h3>
 
-            <ul>
+            <ol>
                 <li>El Tutor presentará el video “Correo electrónico: Escribir un mensaje correctamente” disponible en el material.</li>
                 <li>El Tutor reforzará el video haciendo énfasis en la importancia del uso correcto de los elementos de un correo electrónico: Destinatario, CC, CCO, asunto, contenido, archivos adjuntos, firma de correo; enviará un correo a cada uno de los alumnos como muestra.</li>
                 <li>El Tutor pide a los alumnos que envíen un correo electrónico, con un archivo adjunto, con asunto especificado y contenido.</li>
-            </ul>
+            </ol>
         </div>
 
         <a href="s3-semana2.php" class="atras"><</a>

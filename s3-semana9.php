@@ -17,8 +17,7 @@
 
     <div class="main">
         <div class="text txt-justify">
-            <h1>Semestre 3</h1>
-
+          
             <h2>Semana 9 | AVANCE ESCOLAR</h2>
 
             <h3>Descripción</h3>
