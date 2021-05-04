@@ -78,7 +78,7 @@ switch (window.location.pathname) {
                                 elemento.className += " active";
                                 
     break;
-    case '/tutoria/s7-semana8.php':
+    case '/tutoria/s7-semana9.php':
         var elemento = document.getElementById("s7-semana9");
                                 elemento.className += " active";
                                 
