@@ -17,16 +17,16 @@
   
   <div class="main">
       <div class = "text txt-justify">
-	<h2>Semana 2 | RESIDENCIA PROFESIONAL</h2>
+	<h2>Semana 3 | MI PROYECTO Y LA EMPRESA</h2>
 	
 	<h3>Descripción</h3>
-	<p>El tutor explica la normativa para la realización y acreditación de la residencia profesional, tomando en cuenta los aspectos importantes.</p>
+	<p>Conocer las principales opciones de titulación establecidos en la normativa de Tecnológico Nacional de México.</p>
 
 	<h3>Pasos a seguir</h3>
 	<ol>
-	  <li>Al iniciar la sesión el tutor explica el tema con el apoyo de la presentación “Residencia profesional”.</li>
-	  <li>Presenta y explica los anexos XXIX y XXX del manual académico administrativo del TecNM relacionados con la evaluación de la residencia profesional.</li>
-	  <li>Finalizar con un espacio para comentarios con los estudiantes.</li>
+	  <li>Antes de la sesión, el Tutor revisará la presentación correspondiente disponible en el material para agregar el tipo de proyectos que los estudiantes del Programa Educativo realizan de manera tradicional en sus residencias, así como las empresas más recomendables y las que no se consideran apropiadas.</li>
+	  <li>El Tutor en plenaria discutirá con los estudiantes acerca de las características que deben cumplir los proyectos y las empresas para el proceso de residencias.</li>
+	  <li>Si el tutor lo requiere, puede invitar al Jefe de Carrera para resolver dudas sobre este proceso.</li>
 	</ol>
 
 	</div>

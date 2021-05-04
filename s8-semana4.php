@@ -17,16 +17,16 @@
   
   <div class="main">
       <div class = "text txt-justify">
-	<h2>Semana 2 | RESIDENCIA PROFESIONAL</h2>
+	<h2>Semana 4 | SOLICITUD DE EMPLEO</h2>
 	
 	<h3>Descripción</h3>
-	<p>El tutor explica la normativa para la realización y acreditación de la residencia profesional, tomando en cuenta los aspectos importantes.</p>
+	<p>Llenar una solicitud de empleo, recalcando la importancia de destacar los aspectos técnicos y personales más importantes a considerar.</p>
 
 	<h3>Pasos a seguir</h3>
 	<ol>
-	  <li>Al iniciar la sesión el tutor explica el tema con el apoyo de la presentación “Residencia profesional”.</li>
-	  <li>Presenta y explica los anexos XXIX y XXX del manual académico administrativo del TecNM relacionados con la evaluación de la residencia profesional.</li>
-	  <li>Finalizar con un espacio para comentarios con los estudiantes.</li>
+	  <li>Antes de la sesión, el Tutor enviará el formato de solicitud de empleo a los tutorados y les pedirá la impriman para la sesión.</li>
+	  <li>El Tutor en plenaria revisará en plenaria las secciones de las que consta la solicitud y algunas consideraciones para llenarla.</li>
+	  <li>Los estudiantes llenarán dicha solicitud y la presentarán en su entrevista de trabajo en la semana 7 y 8.</li>
 	</ol>
 
 	</div>

@@ -17,17 +17,13 @@
   
   <div class="main">
       <div class = "text txt-justify">
-	<h2>Semana 2 | RESIDENCIA PROFESIONAL</h2>
+	<h2>Semana 5 | AVANCE ESCOLAR</h2>
 	
 	<h3>Descripción</h3>
-	<p>El tutor explica la normativa para la realización y acreditación de la residencia profesional, tomando en cuenta los aspectos importantes.</p>
+	<p>Identificar el avance escolar de los tutorados y detalles importantes de su situación académica.</p>
 
 	<h3>Pasos a seguir</h3>
-	<ol>
-	  <li>Al iniciar la sesión el tutor explica el tema con el apoyo de la presentación “Residencia profesional”.</li>
-	  <li>Presenta y explica los anexos XXIX y XXX del manual académico administrativo del TecNM relacionados con la evaluación de la residencia profesional.</li>
-	  <li>Finalizar con un espacio para comentarios con los estudiantes.</li>
-	</ol>
+	<p>Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan importantes señales de bajo rendimiento, asistencia o comportamiento inadecuado con las notas correspondientes.</p>
 
 	</div>
 

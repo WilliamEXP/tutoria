@@ -17,19 +17,19 @@
   
   <div class="main">
       <div class = "text txt-justify">
-	<h2>Semana 2 | RESIDENCIA PROFESIONAL</h2>
+	<h2>Semana 7 | LA ENTREVISTA LABORAL</h2>
 	
 	<h3>Descripción</h3>
-	<p>El tutor explica la normativa para la realización y acreditación de la residencia profesional, tomando en cuenta los aspectos importantes.</p>
+	<p>Realizar una entrevista laboral, estableciendo los aspectos más importantes a considerar en una entrevista de este tipo.</p>
 
 	<h3>Pasos a seguir</h3>
 	<ol>
-	  <li>Al iniciar la sesión el tutor explica el tema con el apoyo de la presentación “Residencia profesional”.</li>
-	  <li>Presenta y explica los anexos XXIX y XXX del manual académico administrativo del TecNM relacionados con la evaluación de la residencia profesional.</li>
+	  <li>Al iniciar la sesión el Tutor organiza a los estudiantes del grupo para la realización de la entrevista, tomando en cuenta que el tiempo de duración es de 2 sesiones.</li>
+	  <li>Explica la importancia de realización de esta actividad.</li>
+	  <li>El Tutor en conjunto con el entrevistador, reúne las evidencias de la entrevista.</li>
+	  <li>Los estudiantes presentan la solicitud de empleo, elaborada en la semana 4.</li>
 	  <li>Finalizar con un espacio para comentarios con los estudiantes.</li>
 	</ol>
-
-	</div>
 
 	<a href="index.php" class ="atras"><</a>
 	<a href="operacion.php" class ="siguiente">></a>
