@@ -36,8 +36,8 @@
 	  para llevarlas a cabo. </p>
 	</div>
 
-	<a href="index.php" class ="atras"><</a>
-	<a href="operacion.php" class ="siguiente">></a>
+	<a href="s7-semana14.php" class ="atras"><</a>
+	<a href="s7-semana16.php" class ="siguiente">></a>
       </div>
   </div>
 

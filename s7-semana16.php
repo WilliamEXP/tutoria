@@ -26,7 +26,7 @@
 	<h3>Pasos a seguir</h3>
 	<p>Revisión general por parte del Tutor de las calificaciones reportadas al momento para el grupo tutorado. Deberá de llenar el formato correspondiente, identificando aquellos alumnos que han reprobado o presentan importantes señales de bajo rendimiento, asistencia o comportamiento inadecuado con las notas correspondientes.</p>
 
-	<a href="s7-semana16.php" class ="atras"><</a>
+	<a href="s7-semana15.php" class ="atras"><</a>
 	<a href="s8-semana1.php" class ="siguiente">></a>
       </div>
   </div>
