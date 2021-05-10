@@ -51,89 +51,15 @@
        
        </div>
        
-        <script>
-switch (window.location.pathname) {
-    case '/tutoria/s6-semana1.php':
-        var elemento = document.getElementById("s6-semana1");
-                                elemento.className += " active";
-
-    break;
-    case '/tutoria/s6-semana2.php':
-        var elemento = document.getElementById("s6-semana2");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana3.php':
-        var elemento = document.getElementById("s6-semana3");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana4.php':
-        var elemento = document.getElementById("s6-semana4");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana5.php':
-        var elemento = document.getElementById("s6-semana5");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana6.php':
-        var elemento = document.getElementById("s6-semana6");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana7.php':
-        var elemento = document.getElementById("s6-semana7");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana8.php':
-        var elemento = document.getElementById("s6-semana8");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana9.php':
-        var elemento = document.getElementById("s6-semana9");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana10.php':
-        var elemento = document.getElementById("s6-semana10");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana11.php':
-        var elemento = document.getElementById("s6-semana11");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana12.php':
-        var elemento = document.getElementById("s6-semana12");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana13.php':
-        var elemento = document.getElementById("s6-semana13");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana14.php':
-        var elemento = document.getElementById("s6-semana14");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana15.php':
-        var elemento = document.getElementById("s6-semana15");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/s6-semana16.php':
-        var elemento = document.getElementById("s6-semana16");
-                                elemento.className += " active";
-                                
-    break;
-    }
+       <script>
+              jQuery(function($) {
+     var path = window.location.href; // because the 'href' property of the DOM element is the absolute path
+     $('li a').each(function() {
+      if (this.href === path) {
+       $(this).addClass('active');
+      }
+     });
+    });
         </script>
 </body>
 </html>

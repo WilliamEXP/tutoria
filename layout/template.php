@@ -62,75 +62,7 @@
        
        </div>
        
-        <script>
-switch (window.location.pathname) {
-    case '/tutoria/index.php':
-        var elemento = document.getElementById("index");
-                                elemento.className += " active";
-
-    break;
-    case '/tutoria/introduccion.php':
-        var elemento = document.getElementById("introduccion");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/aspectos.php':
-        var elemento = document.getElementById("aspectos");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/operacion.php':
-        var elemento = document.getElementById("operacion");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/comite.php':
-        var elemento = document.getElementById("comite");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/contexto.php':
-        var elemento = document.getElementById("contexto");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/definicion.php':
-        var elemento = document.getElementById("definicion");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/definiciones.php':
-        var elemento = document.getElementById("definiciones");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/guia.php':
-        var elemento = document.getElementById("guia");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/instrumentos.php':
-        var elemento = document.getElementById("instrumentos");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/tuto_gru.php':
-        var elemento = document.getElementById("tuto_gru");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/tuto_indi.php':
-        var elemento = document.getElementById("tuto_indi");
-                                elemento.className += " active";
-                                
-    break;
-    case '/tutoria/formato.php':
-        var elemento = document.getElementById("formato");
-                                elemento.className += " active";
-                                
-    break;
-    }
-        </script>
+        
         <script>
                 $( document ).ready(function() {
                     $('#menu_on').click(function(){
@@ -138,6 +70,16 @@ switch (window.location.pathname) {
                     $('.menu').toggleClass('ver');
                     })
                 });
+        </script>
+        <script>
+              jQuery(function($) {
+     var path = window.location.href; // because the 'href' property of the DOM element is the absolute path
+     $('li a').each(function() {
+      if (this.href === path) {
+       $(this).addClass('active');
+      }
+     });
+    });
         </script>
 </body>
 </html>
